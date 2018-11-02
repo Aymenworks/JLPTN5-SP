@@ -5,7 +5,7 @@
         <router-view/>
       </div>
 
-      <v-bottom-nav color="transparent">
+      <v-bottom-nav color="transparent" fixed:true>
 
         <v-btn color="teal" flat to="/">
           <span>Home</span>
