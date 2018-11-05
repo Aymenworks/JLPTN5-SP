@@ -23,12 +23,5 @@
         </v-btn>
       </v-bottom-nav>
   </v-card>
-
   </div>
 </template>
-
-<script>
-export default {
-  name: 'App'
-}
-</script>
