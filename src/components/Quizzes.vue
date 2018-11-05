@@ -2,7 +2,7 @@
   <div>
       <v-container grid-list-sm>
         <v-layout align-space-between justify-start column>
-          <QuizzesList title="Custom title"/>
+          <QuizzesList :title="quizzTitle" :items="quizzItems"/>
         </v-layout>
       </v-container>
   </div>
@@ -18,6 +18,7 @@
         data() {
           return {
             quizzTitle: "Aymen title",
+            quizzItems: [{name:"a"}, {name:"b"}, {name:"c"}],
           }
         },
     }

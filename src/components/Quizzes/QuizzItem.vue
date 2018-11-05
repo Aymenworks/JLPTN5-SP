@@ -2,10 +2,23 @@
     <div>
       <v-btn block flat large class="text-xs-left">
         <div color="red" class="quizzSquare"/>
-        Play with numbers
+        {{ item.name }}
       </v-btn>
     </div>
 </template>
+
+
+<script>
+    export default {
+
+        props: {
+            item: {
+                type: Object,
+                required: true,
+            },
+        },
+    }
+</script>
 
 <style scoped>
 .quizzSquare {

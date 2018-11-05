@@ -1,12 +1,30 @@
 <template>
     <div>
       <v-card-text class="kanjiText">Practice {{ title }}</v-card-text>
-      <v-flex v-for="i in 4" xs12>
-        <v-btn block flat large class="text-xs-left">
-          <div color="red" class="quizzSquare"/>
-          Play with numbers
-        </v-btn>
+      <v-flex xs12 v-for="item in items" :key="item.name">
+        <QuizzItem :item=item />
         <v-divider light/>
       </v-flex>
     </div>
 </template>
+
+<script>
+    import QuizzItem from './QuizzItem'
+
+    export default {
+        components: {
+            QuizzItem,
+        },
+
+        props: {
+            title: {
+                type: String,
+                required: true,
+            },
+            items: {
+                type: Array,
+                required: true,
+            },
+        },
+    }
+</script>
