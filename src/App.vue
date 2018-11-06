@@ -1,11 +1,10 @@
 <template>
   <div id="app">
     <v-card height="200px" flat>
-      <div class="text-xs-center pa-5">
-        <router-view/>
-      </div>
+      
+      <router-view/>
 
-      <v-bottom-nav color="transparent" fixed:true>
+      <v-bottom-nav>
 
         <v-btn color="teal" flat to="/">
           <span>Home</span>

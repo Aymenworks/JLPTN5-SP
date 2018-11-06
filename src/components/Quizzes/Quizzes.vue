@@ -21,17 +21,19 @@
             firstSection: {
               title: "Aymen test custom",
               quizzes: [
-                { title: "Aymen test custom 1", id: "1" },
-                { title: "Aymen test custom 2", id: "2" },
-                { title: "Aymen test custom 3", id: "3" },
-                { title: "Aymen test custom 4", id: "4" },
-                { title: "Aymen test custom 5", id: "5" },
+                { title: "Easy", id: "1", color: "red" },
+                { title: "Medium", id: "2",  color: "green" },
+                { title: "Difficult", id: "3",  color: "blue" },
+                { title: "Words", id: "4", image: "home"},
               ]
             },
             secondSection: {
               title: "More variety of quizzes!",
               quizzes: [
-                { title: "Aymen test custom 6", id: "6" },
+                { title: "Fill in the blanks", id: "5", image: "home"},
+                { title: "Find the antonyms", id: "6", image: "home"},
+                { title: "Play with numbers", id: "7", image: "home"},
+
               ]
             },
           }

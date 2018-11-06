@@ -1,6 +1,6 @@
 <template>
     <div>
-      <v-card-text class="kanjiText">Practice {{ configuration.title }}</v-card-text>
+      <p class="sectionHeader text-sm-left">{{ configuration.title }}</p>
       <v-flex xs12 v-for="quizz in configuration.quizzes" :key="quizz.id">
         <QuizzItem :quizz="quizz"/>
         <v-divider light/>
@@ -23,3 +23,12 @@
       },
     }
 </script>
+
+<style scoped>
+.sectionHeader {
+  color: black;
+  font-weight: bold;
+  font-size: 28px;
+}
+</style>
+
