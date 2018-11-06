@@ -1,7 +1,7 @@
 import Vue from 'vue'
-import Home from '@/components/Home'
-import About from '@/components/About'
-import Quizzes from '@/components/Quizzes'
+import Home from '@/components/Kanjis/Home'
+import About from '@/components/About/About'
+import Quizzes from '@/components/Quizzes/Quizzes'
 import VueRouter from 'vue-router'
 
 Vue.use(VueRouter)
