@@ -11,29 +11,32 @@
 
 <script>
   import QuizzesList from '@/components/Quizzes/QuizzesList'
-
+  import {Quizz} from './Quizz.js'
+  
     export default {
         components: {
             QuizzesList
+        },
+          created() {
+            console.log('quizzes created');
         },
         data() {
           return {
             firstSection: {
               title: "Aymen test custom",
               quizzes: [
-                { title: "Easy", id: "1", color: "red" },
-                { title: "Medium", id: "2",  color: "green" },
-                { title: "Difficult", id: "3",  color: "blue" },
-                { title: "Words", id: "4", image: "home"},
+                new Quizz(1, "Easy", "red", false),
+                new Quizz(2, "Medium", "red", false),
+                new Quizz(3, "Difficult", "red", false),
+                new Quizz(4, "Words", "home"),
               ]
             },
             secondSection: {
               title: "More variety of quizzes!",
               quizzes: [
-                { title: "Fill in the blanks", id: "5", image: "home"},
-                { title: "Find the antonyms", id: "6", image: "home"},
-                { title: "Play with numbers", id: "7", image: "home"},
-
+                new Quizz(5, "Fill in the blanks", "home"),
+                new Quizz(6, "Find the antonyms", "home"),
+                new Quizz(7, "Play with numbers", "home"),
               ]
             },
           }

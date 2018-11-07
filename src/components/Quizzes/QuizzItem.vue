@@ -1,17 +1,18 @@
 <template>
       <v-btn block left flat large class="text-xs-left">
-        <div v-if="quizz.color" :style="{background: quizz.color}" class="quizzSquare"/>
-        <v-icon v-else-if="quizz.image">{{ quizz.image }}</v-icon>
-        <div v-else style="background: black" class="quizzSquare"/>
+        <v-icon v-if="quizz.hasImage">{{ quizz.resource }}</v-icon>
+        <div v-else :style="{background: quizz.resource}" class="quizzSquare"/>
         {{ quizz.title }}
       </v-btn>
 </template>
 
 <script>
+  import {Quizz} from './Quizz.js'
+
     export default {
       props: {
         quizz: {
-          type: Object,
+          type: Quizz,
           required: true,
         },
       },
