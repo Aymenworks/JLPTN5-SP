@@ -24,3 +24,9 @@
   </v-card>
   </div>
 </template>
+
+<style scoped>
+body {
+  font-family: Times,serif,"Times New Roman";
+}
+</style>
