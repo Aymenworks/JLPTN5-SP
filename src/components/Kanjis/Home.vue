@@ -1,6 +1,9 @@
 <template>
   <div>
-      <v-container grid-list-lg>
+    <div class="loading" v-if="loading">
+      Loading...
+    </div>
+      <v-container grid-list-lg v-if="kanjis">
         <v-layout align-space-between justify-start row wrap>
           <v-flex xs4 v-for="kanji in kanjis" :key="kanji.character">
              <KanjiItem :kanji="kanji"/>
@@ -12,39 +15,34 @@
 
 <script>
 import KanjiItem from '@/components/Kanjis/KanjiItem'
+import KanjiJSON from '../../assets/KanjiEN.json'
+import {Kanji} from './Kanji.js'
 
 export default {
   components: {
     KanjiItem
   },
+  created() {
+    this.loading = true
+    this.fetchKanjis()
+    this.loading = false
+  },
   data() {
     return {
-      kanjis: [
-        { character: 'o1', translation: 'translation1' },
-        { character: 'o2', translation: 'translation2' },
-        { character: 'o3', translation: 'translation3' },
-        { character: 'o4', translation: 'translation4' },
-        { character: 'o5', translation: 'translation5' },
-      ]
+      loading: false,
+      kanjis: null
+    }
+  },
+  methods: {
+    fetchKanjis() {
+        var kanjisList = KanjiJSON[0]['KanjiList']; 
+        var kanjisSymbols = [];
+        for(var i = 0; i< kanjisList.length; i++) {
+          var newKanji = new Kanji(String(kanjisList[i]['Symbol']), String(kanjisList[i]['Translation']));
+          kanjisSymbols.push(newKanji);
+        }
+        this.kanjis = kanjisSymbols;
     }
   }
 }
 </script>
-
-<style scoped>
-.lightShadow {
-  box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
-}
-.kanjiText {
-  color: black;
-  font-weight: bold;
-  font-size: 28px;
-  font-family: Times,serif,"Times New Roman";
-}
-.kanjiTranslation {
-  color: rgb(210, 210, 210);
-  font-weight: regular;
-  font-size: 14px;
-  font-family: Times,serif,"Times New Roman";
-}
-</style>

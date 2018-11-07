@@ -9,12 +9,30 @@
 </template>
 
 <script>
+import {Kanji} from './Kanji.js'
+
 export default {
     props: {
         kanji: {
-            type: Object,
+            type: Kanji,
             required: true
         }
     }
 }
 </script>
+
+<style scoped>
+.lightShadow {
+  box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
+}
+.kanjiText {
+  color: black;
+  font-weight: bold;
+  font-size: 28px;
+}
+.kanjiTranslation {
+  color: rgb(210, 210, 210);
+  font-weight: regular;
+  font-size: 14px;
+}
+</style>
