@@ -1,12 +1,34 @@
 <template>
     <div>
-      <v-card-text class="kanjiText">Practice {{ title }}</v-card-text>
-      <v-flex v-for="i in 4" xs12>
-        <v-btn block flat large class="text-xs-left">
-          <div color="red" class="quizzSquare"/>
-          Play with numbers
-        </v-btn>
+      <p class="sectionHeader text-sm-left">{{ configuration.title }}</p>
+      <v-flex xs12 v-for="quizz in configuration.quizzes" :key="quizz.id">
+        <QuizzItem :quizz="quizz"/>
         <v-divider light/>
       </v-flex>
     </div>
 </template>
+
+<script>
+  import QuizzItem from './QuizzItem'
+
+    export default {
+      components: {
+          QuizzItem
+      },
+      props: {
+        configuration: {
+          type: Object,
+          required: true,
+        },
+      },
+    }
+</script>
+
+<style scoped>
+.sectionHeader {
+  color: black;
+  font-weight: bold;
+  font-size: 28px;
+}
+</style>
+
