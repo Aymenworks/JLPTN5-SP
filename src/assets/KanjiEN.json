@@ -1,0 +1,4851 @@
+[
+  {
+    "KanjiList": [
+      {
+        "Symbol": "一",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/1_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ichi",
+            "Katakana": "イチ"
+          },
+          "Kunyomi": {
+            "Romaji": "hito",
+            "Hiragana": "ひと"
+          }
+        },
+        "Translation": "1",
+        "Words": [
+          {
+            "Japanese meaning": "一年生",
+            "Translation meaning": "first-year student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_a.aac"
+          },
+          {
+            "Japanese meaning": "一番 (いちばん)",
+            "Translation meaning": "number one",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_b.aac"
+          },
+          {
+            "Japanese meaning": "一度 (いちど)",
+            "Translation meaning": "once",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_c.aac"
+          },
+          {
+            "Japanese meaning": "一杯 (いっぱい)",
+            "Translation meaning": "one cup of, a lot of",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_d.aac"
+          },
+          {
+            "Japanese meaning": "一緒 (いっしょ)",
+            "Translation meaning": "together",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_e.aac"
+          },
+          {
+            "Japanese meaning": "一分 (いっぷん)",
+            "Translation meaning": "one minute",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_f.aac"
+          },
+          {
+            "Japanese meaning": "一枚 (いちまい)",
+            "Translation meaning": "one (flat object)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_g.aac"
+          },
+          {
+            "Japanese meaning": "一つ (ひとつ)",
+            "Translation meaning": "one (object)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_h.aac"
+          },
+          {
+            "Japanese meaning": "一人 (ひとり)",
+            "Translation meaning": "one person",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/1_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 1
+      },
+      {
+        "Symbol": "右",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/migi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "u, yuu",
+            "Katakana": "ウ、ユウ"
+          },
+          "Kunyomi": {
+            "Romaji": "migi",
+            "Hiragana": "みぎ"
+          }
+        },
+        "Translation": "right",
+        "Words": [
+          {
+            "Japanese meaning": "右折する (うせつする)",
+            "Translation meaning": "turn to the right",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/migi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "右派 (うは)",
+            "Translation meaning": "(political) right wing",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/migi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "左右する (さゆうする)",
+            "Translation meaning": "influence, control, command",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/migi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "右 (みぎ)",
+            "Translation meaning": "right",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/migi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "右手 (みぎて)",
+            "Translation meaning": "right hand, right side",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/migi_06_e.aac"
+          },
+          {
+            "Japanese meaning": "右側 (みぎがわ)",
+            "Translation meaning": "right side",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/migi_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "雨",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/u-ame_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "u",
+            "Katakana": "ウ"
+          },
+          "Kunyomi": {
+            "Romaji": "ame, ama",
+            "Hiragana": "あめ、あま"
+          }
+        },
+        "Translation": "rain",
+        "Words": [
+          {
+            "Japanese meaning": "降雨量 (こううりょう)",
+            "Translation meaning": "amount of rainfall",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_a.aac"
+          },
+          {
+            "Japanese meaning": "梅雨前線 (ばいうぜんせん)",
+            "Translation meaning": "seasonal rain front",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_b.aac"
+          },
+          {
+            "Japanese meaning": "雨期 (うき)",
+            "Translation meaning": "rainy season",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_c.aac"
+          },
+          {
+            "Japanese meaning": "雷雨 (らいう)",
+            "Translation meaning": "thunderstorm",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_d.aac"
+          },
+          {
+            "Japanese meaning": "雨 (あめ)",
+            "Translation meaning": "rain",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_e.aac"
+          },
+          {
+            "Japanese meaning": "大雨 (おおあめ)",
+            "Translation meaning": "heavy rain",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_f.aac"
+          },
+          {
+            "Japanese meaning": "雨上がり (あめあがり)",
+            "Translation meaning": "after the rain",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_g.aac"
+          },
+          {
+            "Japanese meaning": "雨蛙 (あまがえる)",
+            "Translation meaning": "tree frog",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_h.aac"
+          },
+          {
+            "Japanese meaning": "雨雲 (あまぐも)",
+            "Translation meaning": "rain cloud",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_i.aac"
+          },
+          {
+            "Japanese meaning": "小雨 (こさめ)",
+            "Translation meaning": "light rain",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u-ame_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 8
+      },
+      {
+        "Symbol": "円",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/en-maru_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "en",
+            "Katakana": "エン"
+          },
+          "Kunyomi": {
+            "Romaji": "maru",
+            "Hiragana": "まる"
+          }
+        },
+        "Translation": "circle, yen",
+        "Words": [
+          {
+            "Japanese meaning": "千円 (せんえん)",
+            "Translation meaning": "a thousand yen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/en-maru_06_a.aac"
+          },
+          {
+            "Japanese meaning": "円高 (えんだか)",
+            "Translation meaning": "strong yen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/en-maru_06_b.aac"
+          },
+          {
+            "Japanese meaning": "円安 (えんやす)",
+            "Translation meaning": "cheap yen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/en-maru_06_c.aac"
+          },
+          {
+            "Japanese meaning": "円満な (えんまんな)",
+            "Translation meaning": "peaceful",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/en-maru_06_d.aac"
+          },
+          {
+            "Japanese meaning": "円滑な (えんかつな)",
+            "Translation meaning": "smooth",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/en-maru_06_e.aac"
+          },
+          {
+            "Japanese meaning": "円い (まるい)",
+            "Translation meaning": "round",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/en-maru_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "下",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ge-shita_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ka, ge",
+            "Katakana": "カ、ゲ"
+          },
+          "Kunyomi": {
+            "Romaji": "shita, shimo, sa, kuda, o",
+            "Hiragana": "した、しも、さ、くだ、お"
+          }
+        },
+        "Translation": "down",
+        "Words": [
+          {
+            "Japanese meaning": "地下鉄 (ちかてつ)",
+            "Translation meaning": "subway",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_a.aac"
+          },
+          {
+            "Japanese meaning": "上下する (じょうげする)",
+            "Translation meaning": "go up and down",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_b.aac"
+          },
+          {
+            "Japanese meaning": "下 (した)",
+            "Translation meaning": "under, below",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_c.aac"
+          },
+          {
+            "Japanese meaning": "靴下 (くつした)",
+            "Translation meaning": "socks",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_d.aac"
+          },
+          {
+            "Japanese meaning": "風下 (かざしも)",
+            "Translation meaning": "leeward",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_e.aac"
+          },
+          {
+            "Japanese meaning": "下がる (さがる)",
+            "Translation meaning": "hang down, fall, step back",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_f.aac"
+          },
+          {
+            "Japanese meaning": "下げる (さげる)",
+            "Translation meaning": "hang, lower",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_g.aac"
+          },
+          {
+            "Japanese meaning": "下る (くだる)",
+            "Translation meaning": "descend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_h.aac"
+          },
+          {
+            "Japanese meaning": "下ろす (おろす)",
+            "Translation meaning": "take down, lower",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_i.aac"
+          },
+          {
+            "Japanese meaning": "下りる (おりる)",
+            "Translation meaning": "get off",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_j.aac"
+          },
+          {
+            "Japanese meaning": "下手 (へた)",
+            "Translation meaning": "unskillful",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "何",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nani_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ka",
+            "Katakana": "カ"
+          },
+          "Kunyomi": {
+            "Romaji": "nani, nan",
+            "Hiragana": "なに、なん"
+          }
+        },
+        "Translation": "what, how many",
+        "Words": [
+          {
+            "Japanese meaning": "幾何学 (きかがく)",
+            "Translation meaning": "geometry",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_a.aac"
+          },
+          {
+            "Japanese meaning": "何 (なに)",
+            "Translation meaning": "what",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_b.aac"
+          },
+          {
+            "Japanese meaning": "何色 (なにいろ)",
+            "Translation meaning": "what color",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_c.aac"
+          },
+          {
+            "Japanese meaning": "何しろ (なにしろ)",
+            "Translation meaning": "at any rate, anyway",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_d.aac"
+          },
+          {
+            "Japanese meaning": "何か (なにか)",
+            "Translation meaning": "something",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_e.aac"
+          },
+          {
+            "Japanese meaning": "何分 (なんぷん)",
+            "Translation meaning": "how many minutes",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_f.aac"
+          },
+          {
+            "Japanese meaning": "何時 (なんじ)",
+            "Translation meaning": "what time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_g.aac"
+          },
+          {
+            "Japanese meaning": "何回 (なんかい)",
+            "Translation meaning": "how many times",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_h.aac"
+          },
+          {
+            "Japanese meaning": "何百 (なんびゃく)",
+            "Translation meaning": "hundreds",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_i.aac"
+          },
+          {
+            "Japanese meaning": "何度も (なんども)",
+            "Translation meaning": "many times",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_j.aac"
+          },
+          {
+            "Japanese meaning": "何才 (なんさい)",
+            "Translation meaning": "how old",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nani_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 7
+      },
+      {
+        "Symbol": "火",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ka-hi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ka",
+            "Katakana": "カ"
+          },
+          "Kunyomi": {
+            "Romaji": "hi",
+            "Hiragana": "ひ"
+          }
+        },
+        "Translation": "fire",
+        "Words": [
+          {
+            "Japanese meaning": "火事 (かじ)",
+            "Translation meaning": "fire",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "火力 (かりょく)",
+            "Translation meaning": "thermal power",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "火曜日 (かようび)",
+            "Translation meaning": "tuesday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "火 (ひ)",
+            "Translation meaning": "flame, fire",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "花火 (はなび)",
+            "Translation meaning": "fireworks",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ka-hi_06_e.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "外",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/soto_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "gai, ge",
+            "Katakana": "ガイ、ゲ"
+          },
+          "Kunyomi": {
+            "Romaji": "soto, hoka, hazu",
+            "Hiragana": "そと、ほか、はず"
+          }
+        },
+        "Translation": "outside",
+        "Words": [
+          {
+            "Japanese meaning": "外国 (がいこく)",
+            "Translation meaning": "foreign country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_a.aac"
+          },
+          {
+            "Japanese meaning": "外部 (がいぶ)",
+            "Translation meaning": "the outside",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_b.aac"
+          },
+          {
+            "Japanese meaning": "国外 (こくがい)",
+            "Translation meaning": "outside the country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_c.aac"
+          },
+          {
+            "Japanese meaning": "海外旅行 (かいがいりょこう)",
+            "Translation meaning": "overseas travel",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_d.aac"
+          },
+          {
+            "Japanese meaning": "意外な (いがいな)",
+            "Translation meaning": "surprising",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_e.aac"
+          },
+          {
+            "Japanese meaning": "外食する (がいしょくする)",
+            "Translation meaning": "eat out",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_f.aac"
+          },
+          {
+            "Japanese meaning": "外出する (がいしゅつする)",
+            "Translation meaning": "go out",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_g.aac"
+          },
+          {
+            "Japanese meaning": "外科 (げか)",
+            "Translation meaning": "surgical department",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_h.aac"
+          },
+          {
+            "Japanese meaning": "外 (そと)",
+            "Translation meaning": "outside",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_i.aac"
+          },
+          {
+            "Japanese meaning": "思いの外 (おもいのほか)",
+            "Translation meaning": "unexpected",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_j.aac"
+          },
+          {
+            "Japanese meaning": "外す (はずす)",
+            "Translation meaning": "remove",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_k.aac"
+          },
+          {
+            "Japanese meaning": "外れる (はずれる)",
+            "Translation meaning": "be disconnected",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/soto_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "学",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mana(bu)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "gaku",
+            "Katakana": "ガク"
+          },
+          "Kunyomi": {
+            "Romaji": "mana",
+            "Hiragana": "まな"
+          }
+        },
+        "Translation": "study, educational, institution",
+        "Words": [
+          {
+            "Japanese meaning": "学生 (がくせい)",
+            "Translation meaning": "student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "学者 (がくしゃ)",
+            "Translation meaning": "scholar",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "大学 (だいがく)",
+            "Translation meaning": "university",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "大学院 (だいがくいん)",
+            "Translation meaning": "graduate school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "奨学金 (しょうがくきん)",
+            "Translation meaning": "scholarship",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "人類学 (じんるいがく)",
+            "Translation meaning": "anthropology",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "言語学 (げんごがく)",
+            "Translation meaning": "linguistics",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "学校 (がっこう)",
+            "Translation meaning": "school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "学期 (がっき)",
+            "Translation meaning": "term, semester",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "学ぶ (まなぶ)",
+            "Translation meaning": "study",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mana(bu)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 8
+      },
+      {
+        "Symbol": "間",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/aida_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kan, ken",
+            "Katakana": "カン、ケン"
+          },
+          "Kunyomi": {
+            "Romaji": "aida, ma",
+            "Hiragana": "あいだ、ま"
+          }
+        },
+        "Translation": "interval, between",
+        "Words": [
+          {
+            "Japanese meaning": "一週間 (いっしゅうかん)",
+            "Translation meaning": "one week",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_a.aac"
+          },
+          {
+            "Japanese meaning": "二時間 (にじかん)",
+            "Translation meaning": "two hours",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_b.aac"
+          },
+          {
+            "Japanese meaning": "世間 (せけん)",
+            "Translation meaning": "society, the public, people",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_c.aac"
+          },
+          {
+            "Japanese meaning": "人間 (にんげん)",
+            "Translation meaning": "human",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_d.aac"
+          },
+          {
+            "Japanese meaning": "この間 (このあいだ)",
+            "Translation meaning": "the other day",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_e.aac"
+          },
+          {
+            "Japanese meaning": "間に (あいだに)",
+            "Translation meaning": "in between, while",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_f.aac"
+          },
+          {
+            "Japanese meaning": "居間 (いま)",
+            "Translation meaning": "living room",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_g.aac"
+          },
+          {
+            "Japanese meaning": "仲間 (なかま)",
+            "Translation meaning": "circle of friends",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_h.aac"
+          },
+          {
+            "Japanese meaning": "間違い (まちがい)",
+            "Translation meaning": "mistake",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_i.aac"
+          },
+          {
+            "Japanese meaning": "間違える (まちがえる)",
+            "Translation meaning": "make a mistake",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_j.aac"
+          },
+          {
+            "Japanese meaning": "間に合う (まにあう)",
+            "Translation meaning": "be in time, be enough",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_k.aac"
+          },
+          {
+            "Japanese meaning": "昼間 (ひるま)",
+            "Translation meaning": "day time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/aida_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 12
+      },
+      {
+        "Symbol": "気",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ki(mochi)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ki, ke",
+            "Katakana": "キ、ケ"
+          },
+          "Kunyomi": {
+            "Romaji": "n/a",
+            "Hiragana": ""
+          }
+        },
+        "Translation": "gas, spirit",
+        "Words": [
+          {
+            "Japanese meaning": "気候 (きこう)",
+            "Translation meaning": "climate",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "気持ち (きもち)",
+            "Translation meaning": "feeling",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "天気 (てんき)",
+            "Translation meaning": "weather",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "人気 (にんき)",
+            "Translation meaning": "popularity",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "病気 (びょうき)",
+            "Translation meaning": "illness",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "元気な (げんきな)",
+            "Translation meaning": "energetic",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "気を付ける (きをつける)",
+            "Translation meaning": "be careful",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "気に入る (きにいる)",
+            "Translation meaning": "come to like, be pleased with",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "気が狂う (きがくるう)",
+            "Translation meaning": "go mad, go crazy",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "眠気 (ねむけ)",
+            "Translation meaning": "sleepiness",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "湿気 (しっけ)",
+            "Translation meaning": "humidity",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ki(mochi)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "休",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/yasu(mi)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kyuu",
+            "Katakana": "キュウ"
+          },
+          "Kunyomi": {
+            "Romaji": "yasu",
+            "Hiragana": "やす"
+          }
+        },
+        "Translation": "rest",
+        "Words": [
+          {
+            "Japanese meaning": "休日 (きゅうじつ)",
+            "Translation meaning": "holiday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "週休 (しゅうきゅう)",
+            "Translation meaning": "weekly holiday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "休講 (きゅうこう)",
+            "Translation meaning": "a cancelled lecture",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "休暇 (きゅうか)",
+            "Translation meaning": "vacation",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "休み (やすみ)",
+            "Translation meaning": "rest, absence, break, recess",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "休む (やすむ)",
+            "Translation meaning": "rest",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "休める (やすめる)",
+            "Translation meaning": "put to rest",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yasu(mi)_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "金",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kin-kane_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kin, kon",
+            "Katakana": "キン、コン"
+          },
+          "Kunyomi": {
+            "Romaji": "kane, kana",
+            "Hiragana": "かね、かな"
+          }
+        },
+        "Translation": "metal, gold, money",
+        "Words": [
+          {
+            "Japanese meaning": "金曜日 (きんようび)",
+            "Translation meaning": "friday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_a.aac"
+          },
+          {
+            "Japanese meaning": "金属 (きんぞく)",
+            "Translation meaning": "metal",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_b.aac"
+          },
+          {
+            "Japanese meaning": "金髪 (きんぱつ)",
+            "Translation meaning": "blond hair",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_c.aac"
+          },
+          {
+            "Japanese meaning": "金魚 (きんぎょ)",
+            "Translation meaning": "goldfish",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_d.aac"
+          },
+          {
+            "Japanese meaning": "金額 (きんがく)",
+            "Translation meaning": "amount of money",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_e.aac"
+          },
+          {
+            "Japanese meaning": "奨学金 (しょうがくきん)",
+            "Translation meaning": "scholarship",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_f.aac"
+          },
+          {
+            "Japanese meaning": "罰金 (ばっきん)",
+            "Translation meaning": "a fine",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_g.aac"
+          },
+          {
+            "Japanese meaning": "現金 (げんきん)",
+            "Translation meaning": "cash",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_h.aac"
+          },
+          {
+            "Japanese meaning": "預金する (よきんする)",
+            "Translation meaning": "deposit in a bank",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_i.aac"
+          },
+          {
+            "Japanese meaning": "金色 (こんじき/きんいろ)",
+            "Translation meaning": "gold colored",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_j.aac"
+          },
+          {
+            "Japanese meaning": "お金 (おかね)",
+            "Translation meaning": "money",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_k.aac"
+          },
+          {
+            "Japanese meaning": "金物 (かなもの)",
+            "Translation meaning": "hardware",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kin-kane_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 8
+      },
+      {
+        "Symbol": "九",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/9_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kyuu, ku",
+            "Katakana": "キュウ、ク"
+          },
+          "Kunyomi": {
+            "Romaji": "kokono",
+            "Hiragana": "ここの"
+          }
+        },
+        "Translation": "9",
+        "Words": [
+          {
+            "Japanese meaning": "九州 (きゅうしゅう)",
+            "Translation meaning": "kyuushuu",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_a.aac"
+          },
+          {
+            "Japanese meaning": "九回 (きゅうかい)",
+            "Translation meaning": "9 times",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_b.aac"
+          },
+          {
+            "Japanese meaning": "九年 (きゅうねん)",
+            "Translation meaning": "9 years",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_c.aac"
+          },
+          {
+            "Japanese meaning": "九月 (くがつ)",
+            "Translation meaning": "september",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_d.aac"
+          },
+          {
+            "Japanese meaning": "九時 (くじ)",
+            "Translation meaning": "9 o'clock",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_e.aac"
+          },
+          {
+            "Japanese meaning": "十九日 (じゅうくにち)",
+            "Translation meaning": "19 days, 19th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_f.aac"
+          },
+          {
+            "Japanese meaning": "九日 (ここのか)",
+            "Translation meaning": "9 days, 9th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_g.aac"
+          },
+          {
+            "Japanese meaning": "九つ (ここのつ)",
+            "Translation meaning": "9 (objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/9_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "月",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/getsu-tsuki_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "getsu, gatsu",
+            "Katakana": "ゲツ、ガツ"
+          },
+          "Kunyomi": {
+            "Romaji": "tsuki",
+            "Hiragana": "つき"
+          }
+        },
+        "Translation": "moon, month",
+        "Words": [
+          {
+            "Japanese meaning": "来月 (らいげつ)",
+            "Translation meaning": "next month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_a.aac"
+          },
+          {
+            "Japanese meaning": "月曜日 (げつようび)",
+            "Translation meaning": "monday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_b.aac"
+          },
+          {
+            "Japanese meaning": "先月 (せんげつ)",
+            "Translation meaning": "last month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_c.aac"
+          },
+          {
+            "Japanese meaning": "今月 (こんげつ)",
+            "Translation meaning": "this month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_d.aac"
+          },
+          {
+            "Japanese meaning": "満月 (まんげつ)",
+            "Translation meaning": "full moon",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_e.aac"
+          },
+          {
+            "Japanese meaning": "正月 (しょうがつ)",
+            "Translation meaning": "new year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_f.aac"
+          },
+          {
+            "Japanese meaning": "生年月日 (せいねんがっぴ)",
+            "Translation meaning": "birth date",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_g.aac"
+          },
+          {
+            "Japanese meaning": "月見 (つきみ)",
+            "Translation meaning": "moon viewing",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_h.aac"
+          },
+          {
+            "Japanese meaning": "毎月 (まいつき/まいげつ)",
+            "Translation meaning": "every month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/getsu-tsuki_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "見",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ken-mi(ru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ken",
+            "Katakana": "ケン"
+          },
+          "Kunyomi": {
+            "Romaji": "mi",
+            "Hiragana": "み"
+          }
+        },
+        "Translation": "see",
+        "Words": [
+          {
+            "Japanese meaning": "見学する (けんがくする)",
+            "Translation meaning": "study, take a research trip",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "発見する (はっけんする)",
+            "Translation meaning": "discover",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "拝見する (はいけんする)",
+            "Translation meaning": "take a look at",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "意見 (いけん)",
+            "Translation meaning": "opinion",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "偏見 (へんけん)",
+            "Translation meaning": "prejudice",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "見る (みる)",
+            "Translation meaning": "see",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "見つかる (みつかる)",
+            "Translation meaning": "be found",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "見つける (みつける)",
+            "Translation meaning": "find",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "見える (みえる)",
+            "Translation meaning": "be seen, seem",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "見せる (みせる)",
+            "Translation meaning": "show",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "花見 (はなみ)",
+            "Translation meaning": "cherry-blossom viewing",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ken-mi(ru)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 7
+      },
+      {
+        "Symbol": "五",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/5_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "go",
+            "Katakana": "ゴ"
+          },
+          "Kunyomi": {
+            "Romaji": "itsu",
+            "Hiragana": "いつ"
+          }
+        },
+        "Translation": "5",
+        "Words": [
+          {
+            "Japanese meaning": "五月 (ごがつ)",
+            "Translation meaning": "may",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_a.aac"
+          },
+          {
+            "Japanese meaning": "五時間 (ごじかん)",
+            "Translation meaning": "5 hours",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_b.aac"
+          },
+          {
+            "Japanese meaning": "五階 (ごかい)",
+            "Translation meaning": "5th floor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_c.aac"
+          },
+          {
+            "Japanese meaning": "五人 (ごにん)",
+            "Translation meaning": "5 people",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_d.aac"
+          },
+          {
+            "Japanese meaning": "五つ (いつつ)",
+            "Translation meaning": "5 (objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_e.aac"
+          },
+          {
+            "Japanese meaning": "五日 (いつか)",
+            "Translation meaning": "5 days, 5th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/5_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "午",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(shou)go_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "go",
+            "Katakana": "ゴ"
+          },
+          "Kunyomi": {
+            "Romaji": "n/a",
+            "Hiragana": ""
+          }
+        },
+        "Translation": "noon",
+        "Words": [
+          {
+            "Japanese meaning": "午前 (ごぜん)",
+            "Translation meaning": "morning",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(shou)go_06_a.aac"
+          },
+          {
+            "Japanese meaning": "午後 (ごご)",
+            "Translation meaning": "afternoon",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(shou)go_06_b.aac"
+          },
+          {
+            "Japanese meaning": "正午 (しょうご)",
+            "Translation meaning": "noon",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(shou)go_06_c.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "後",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ushi(ro)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "go, kou",
+            "Katakana": "ゴ、コウ"
+          },
+          "Kunyomi": {
+            "Romaji": "nochi, ushi, ato, oku",
+            "Hiragana": "のち、うし、あと、おく"
+          }
+        },
+        "Translation": "after, back",
+        "Words": [
+          {
+            "Japanese meaning": "午後 (ごご)",
+            "Translation meaning": "afternoon, p.m.",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "最後 (さいご)",
+            "Translation meaning": "last, ending",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "以後 (いご)",
+            "Translation meaning": "from now on",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "後半 (こうはん)",
+            "Translation meaning": "second half",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "後ほど (のちほど)",
+            "Translation meaning": "later",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "後ろ (うしろ)",
+            "Translation meaning": "back, behind",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "後で (あとで)",
+            "Translation meaning": "later, afterwards",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "手後れ (ておくれ)",
+            "Translation meaning": "being (too) late",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "明後日",
+            "Translation meaning": "day after tomorrow",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 9
+      },
+      {
+        "Symbol": "語",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kata(ru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "go",
+            "Katakana": "ゴ"
+          },
+          "Kunyomi": {
+            "Romaji": "kata, kataru",
+            "Hiragana": "かた"
+          }
+        },
+        "Translation": "language, word, tell",
+        "Words": [
+          {
+            "Japanese meaning": "単語 (たんご)",
+            "Translation meaning": "word",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "英語 (えいご)",
+            "Translation meaning": "english language",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "敬語 (けいご)",
+            "Translation meaning": "polite speech",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "言語学 (げんごがく)",
+            "Translation meaning": "linguistics",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "日本語 (にほんご)",
+            "Translation meaning": "japanese language",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "標準語 (ひょうじゅんご)",
+            "Translation meaning": "standard japanese",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "外国語 (がいこくご)",
+            "Translation meaning": "foreign language",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "語る (かたる)",
+            "Translation meaning": "talk",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "物語 (ものがたり)",
+            "Translation meaning": "story",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kata(ru)_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 14
+      },
+      {
+        "Symbol": "校",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(gak)kou_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kou",
+            "Katakana": "コウ"
+          },
+          "Kunyomi": {
+            "Romaji": "n/a",
+            "Hiragana": ""
+          }
+        },
+        "Translation": "school",
+        "Words": [
+          {
+            "Japanese meaning": "学校 (がっこう)",
+            "Translation meaning": "school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_a.aac"
+          },
+          {
+            "Japanese meaning": "母校 (ぼこう)",
+            "Translation meaning": "alma mater",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_b.aac"
+          },
+          {
+            "Japanese meaning": "小学校 (しょうがっこう)",
+            "Translation meaning": "elementary school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_c.aac"
+          },
+          {
+            "Japanese meaning": "中学校 (ちゅうがっこう)",
+            "Translation meaning": "junior high school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_d.aac"
+          },
+          {
+            "Japanese meaning": "高校生 (こうこうせい)",
+            "Translation meaning": "senior high school student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_e.aac"
+          },
+          {
+            "Japanese meaning": "予備校 (よびこう)",
+            "Translation meaning": "cram school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_f.aac"
+          },
+          {
+            "Japanese meaning": "校正する (こうせいする)",
+            "Translation meaning": "proofread",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(gak)kou_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 10
+      },
+      {
+        "Symbol": "行",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/i(ku)-gyou_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kou, gyou, an",
+            "Katakana": "コウ、ギョウ、アン"
+          },
+          "Kunyomi": {
+            "Romaji": "i, yu, okona",
+            "Hiragana": "い、ゆ、おこな"
+          }
+        },
+        "Translation": "go, act, line",
+        "Words": [
+          {
+            "Japanese meaning": "旅行する (りょこうする)",
+            "Translation meaning": "travel",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_a.aac"
+          },
+          {
+            "Japanese meaning": "歩行する (ほこうする)",
+            "Translation meaning": "walk",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_b.aac"
+          },
+          {
+            "Japanese meaning": "実行する (じっこうする)",
+            "Translation meaning": "act, carry out, practice",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_c.aac"
+          },
+          {
+            "Japanese meaning": "銀行 (ぎんこう)",
+            "Translation meaning": "bank",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_d.aac"
+          },
+          {
+            "Japanese meaning": "行政 (ぎょうせい)",
+            "Translation meaning": "administration",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_e.aac"
+          },
+          {
+            "Japanese meaning": "一行目 (いちぎょうめ)",
+            "Translation meaning": "first line",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_f.aac"
+          },
+          {
+            "Japanese meaning": "行事 (ぎょうじ)",
+            "Translation meaning": "event",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_g.aac"
+          },
+          {
+            "Japanese meaning": "行脚する (あんぎゃする)",
+            "Translation meaning": "go on pilgrimage",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_h.aac"
+          },
+          {
+            "Japanese meaning": "行く (いく/ゆく)",
+            "Translation meaning": "go",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_i.aac"
+          },
+          {
+            "Japanese meaning": "行き先 (いきさき/ゆきさき)",
+            "Translation meaning": "destination",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_j.aac"
+          },
+          {
+            "Japanese meaning": "行う (おこなう)",
+            "Translation meaning": "do",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/i(ku)-gyou_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "高",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/taka(i)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kou",
+            "Katakana": "コウ"
+          },
+          "Kunyomi": {
+            "Romaji": "taka",
+            "Hiragana": "たか"
+          }
+        },
+        "Translation": "high",
+        "Words": [
+          {
+            "Japanese meaning": "高校生 (こうこうせい)",
+            "Translation meaning": "senior high school student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "高速道路 (こうそくどうろ)",
+            "Translation meaning": "highway",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "高熱 (こうねつ)",
+            "Translation meaning": "high fever",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "高価な (こうかな)",
+            "Translation meaning": "expensive",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "最高 (さいこう)",
+            "Translation meaning": "supreme",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "高い (たかい)",
+            "Translation meaning": "tall, high, expensive",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "高まる (たかまる)",
+            "Translation meaning": "rise",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "高める (たかめる)",
+            "Translation meaning": "raise, boost",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "円高 (えんだか)",
+            "Translation meaning": "strong yen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "売上高 (うりあげだか)",
+            "Translation meaning": "sales",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/taka(i)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 10
+      },
+      {
+        "Symbol": "国",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kuni_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "koku",
+            "Katakana": "コク"
+          },
+          "Kunyomi": {
+            "Romaji": "kuni",
+            "Hiragana": "くに"
+          }
+        },
+        "Translation": "country",
+        "Words": [
+          {
+            "Japanese meaning": "国際 (こくさい)",
+            "Translation meaning": "international",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_a.aac"
+          },
+          {
+            "Japanese meaning": "国立 (こくりつ)",
+            "Translation meaning": "nationally owned (institution)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_b.aac"
+          },
+          {
+            "Japanese meaning": "国会 (こっかい)",
+            "Translation meaning": "parliament",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_c.aac"
+          },
+          {
+            "Japanese meaning": "四国 (しこく)",
+            "Translation meaning": "shikoku",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_d.aac"
+          },
+          {
+            "Japanese meaning": "韓国 (かんこく)",
+            "Translation meaning": "south korea",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_e.aac"
+          },
+          {
+            "Japanese meaning": "中国 (ちゅうごく)",
+            "Translation meaning": "china",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_f.aac"
+          },
+          {
+            "Japanese meaning": "帝国主義 (ていこくしゅぎ)",
+            "Translation meaning": "imperialism",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_g.aac"
+          },
+          {
+            "Japanese meaning": "帰国する (きこくする)",
+            "Translation meaning": "return to one's own country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_h.aac"
+          },
+          {
+            "Japanese meaning": "入国する (にゅうこくする)",
+            "Translation meaning": "enter a country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_i.aac"
+          },
+          {
+            "Japanese meaning": "国 (くに)",
+            "Translation meaning": "country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_j.aac"
+          },
+          {
+            "Japanese meaning": "国々 (くにぐに)",
+            "Translation meaning": "countries",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_k.aac"
+          },
+          {
+            "Japanese meaning": "島国 (しまぐに)",
+            "Translation meaning": "island country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuni_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 8
+      },
+      {
+        "Symbol": "今",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ima_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "kon, kin",
+            "Katakana": "コン、キン"
+          },
+          "Kunyomi": {
+            "Romaji": "ima",
+            "Hiragana": "いま"
+          }
+        },
+        "Translation": "present, this",
+        "Words": [
+          {
+            "Japanese meaning": "今月 (こんげつ)",
+            "Translation meaning": "this month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_a.aac"
+          },
+          {
+            "Japanese meaning": "今週 (こんしゅう)",
+            "Translation meaning": "this week",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_b.aac"
+          },
+          {
+            "Japanese meaning": "今晩 (こんばん)",
+            "Translation meaning": "tonight",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_c.aac"
+          },
+          {
+            "Japanese meaning": "今後 (こんご)",
+            "Translation meaning": "from now on",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_d.aac"
+          },
+          {
+            "Japanese meaning": "今回 (こんかい)",
+            "Translation meaning": "this time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_e.aac"
+          },
+          {
+            "Japanese meaning": "今度 (こんど)",
+            "Translation meaning": "this time, next time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_f.aac"
+          },
+          {
+            "Japanese meaning": "今上 (きんじょう)",
+            "Translation meaning": "current emperor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_g.aac"
+          },
+          {
+            "Japanese meaning": "今 (いま)",
+            "Translation meaning": "now",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_h.aac"
+          },
+          {
+            "Japanese meaning": "今風 (いまふう)",
+            "Translation meaning": "modern style",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_i.aac"
+          },
+          {
+            "Japanese meaning": "今年 (ことし)",
+            "Translation meaning": "this year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_j.aac"
+          },
+          {
+            "Japanese meaning": "今日 (きょう)",
+            "Translation meaning": "today",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ima_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "左",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hidari_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sa",
+            "Katakana": "サ"
+          },
+          "Kunyomi": {
+            "Romaji": "hidari",
+            "Hiragana": "ひだり"
+          }
+        },
+        "Translation": "left",
+        "Words": [
+          {
+            "Japanese meaning": "左右する (さゆうする)",
+            "Translation meaning": "influence, control, command",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_a.aac"
+          },
+          {
+            "Japanese meaning": "左派 (さは)",
+            "Translation meaning": "(political) left wing",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_b.aac"
+          },
+          {
+            "Japanese meaning": "左 (ひだり)",
+            "Translation meaning": "left",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_c.aac"
+          },
+          {
+            "Japanese meaning": "左側 (ひだりがわ)",
+            "Translation meaning": "left side",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_d.aac"
+          },
+          {
+            "Japanese meaning": "左向き (ひだりむき)",
+            "Translation meaning": "left facing",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hidari_06_e.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "三",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/3_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "san",
+            "Katakana": "サン"
+          },
+          "Kunyomi": {
+            "Romaji": "mi",
+            "Hiragana": "み"
+          }
+        },
+        "Translation": "3",
+        "Words": [
+          {
+            "Japanese meaning": "三人 (さんにん)",
+            "Translation meaning": "3 people",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_a.aac"
+          },
+          {
+            "Japanese meaning": "三時 (さんじ)",
+            "Translation meaning": "3 o'clock",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_b.aac"
+          },
+          {
+            "Japanese meaning": "三枚 (さんまい)",
+            "Translation meaning": "3 (flat objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_c.aac"
+          },
+          {
+            "Japanese meaning": "三月 (さんがつ)",
+            "Translation meaning": "march",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_d.aac"
+          },
+          {
+            "Japanese meaning": "三日 (みっか)",
+            "Translation meaning": "3 days, 3rd day of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_e.aac"
+          },
+          {
+            "Japanese meaning": "三つ (みっつ)",
+            "Translation meaning": "3 (pieces)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/3_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "山",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/yama_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "san",
+            "Katakana": "サン"
+          },
+          "Kunyomi": {
+            "Romaji": "yama",
+            "Hiragana": "やま"
+          }
+        },
+        "Translation": "mountain",
+        "Words": [
+          {
+            "Japanese meaning": "富士山 (ふじさん)",
+            "Translation meaning": "mt fuji",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_a.aac"
+          },
+          {
+            "Japanese meaning": "山脈 (さんみゃく)",
+            "Translation meaning": "mountain range",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_b.aac"
+          },
+          {
+            "Japanese meaning": "火山 (かざん)",
+            "Translation meaning": "volcano",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_c.aac"
+          },
+          {
+            "Japanese meaning": "登山 (とざん)",
+            "Translation meaning": "mountain-climbing",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_d.aac"
+          },
+          {
+            "Japanese meaning": "山 (やま)",
+            "Translation meaning": "mountain, pile, climax",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_e.aac"
+          },
+          {
+            "Japanese meaning": "岩山 (いわやま)",
+            "Translation meaning": "rocky mountain",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_f.aac"
+          },
+          {
+            "Japanese meaning": "山火事 (やまかじ)",
+            "Translation meaning": "bushfire",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yama_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "四",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/4_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "shi",
+            "Katakana": "シ"
+          },
+          "Kunyomi": {
+            "Romaji": "yo, yon",
+            "Hiragana": "よ、よん"
+          }
+        },
+        "Translation": "4",
+        "Words": [
+          {
+            "Japanese meaning": "四月 (しがつ)",
+            "Translation meaning": "april",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_a.aac"
+          },
+          {
+            "Japanese meaning": "四角 (しかく)",
+            "Translation meaning": "square",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_b.aac"
+          },
+          {
+            "Japanese meaning": "四国 (しこく)",
+            "Translation meaning": "shikoku",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_c.aac"
+          },
+          {
+            "Japanese meaning": "四季 (しき)",
+            "Translation meaning": "four seasons",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_d.aac"
+          },
+          {
+            "Japanese meaning": "四時 (よじ)",
+            "Translation meaning": "4 o'clock",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_e.aac"
+          },
+          {
+            "Japanese meaning": "四つ角 (よつかど)",
+            "Translation meaning": "crossroads",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_f.aac"
+          },
+          {
+            "Japanese meaning": "四つ (よっつ)",
+            "Translation meaning": "4 (objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_g.aac"
+          },
+          {
+            "Japanese meaning": "四日 (よっか)",
+            "Translation meaning": "4 days, 4th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_h.aac"
+          },
+          {
+            "Japanese meaning": "四回 (よんかい)",
+            "Translation meaning": "4 times",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/4_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "子",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shi-ko_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "shi, su",
+            "Katakana": "シ、ス"
+          },
+          "Kunyomi": {
+            "Romaji": "ko",
+            "Hiragana": "こ"
+          }
+        },
+        "Translation": "child, noun suffix",
+        "Words": [
+          {
+            "Japanese meaning": "帽子 (ぼうし)",
+            "Translation meaning": "hat, cap",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_a.aac"
+          },
+          {
+            "Japanese meaning": "電子レンジ (でんしレンジ)",
+            "Translation meaning": "microwave oven",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_b.aac"
+          },
+          {
+            "Japanese meaning": "調子 (ちょうし)",
+            "Translation meaning": "pitch, mood, condition",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_c.aac"
+          },
+          {
+            "Japanese meaning": "菓子屋 (かしや)",
+            "Translation meaning": "candy shop",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_d.aac"
+          },
+          {
+            "Japanese meaning": "遺伝子 (いでんし)",
+            "Translation meaning": "gene",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_e.aac"
+          },
+          {
+            "Japanese meaning": "養子 (ようし)",
+            "Translation meaning": "adopted child",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_f.aac"
+          },
+          {
+            "Japanese meaning": "利子 (りし)",
+            "Translation meaning": "interest (bank)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_g.aac"
+          },
+          {
+            "Japanese meaning": "椅子 (いす)",
+            "Translation meaning": "chair",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_h.aac"
+          },
+          {
+            "Japanese meaning": "様子 (ようす)",
+            "Translation meaning": "appearance",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_i.aac"
+          },
+          {
+            "Japanese meaning": "子供 (こども)",
+            "Translation meaning": "child",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_j.aac"
+          },
+          {
+            "Japanese meaning": "息子 (むすこ)",
+            "Translation meaning": "son",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_k.aac"
+          },
+          {
+            "Japanese meaning": "迷子 (まいご)",
+            "Translation meaning": "lost child",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shi-ko_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "時",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ji-toki_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ji",
+            "Katakana": "ジ"
+          },
+          "Kunyomi": {
+            "Romaji": "toki",
+            "Hiragana": "とき"
+          }
+        },
+        "Translation": "time",
+        "Words": [
+          {
+            "Japanese meaning": "時間 (じかん)",
+            "Translation meaning": "time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_a.aac"
+          },
+          {
+            "Japanese meaning": "時代 (じだい)",
+            "Translation meaning": "era",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_b.aac"
+          },
+          {
+            "Japanese meaning": "一時間 (いちじかん)",
+            "Translation meaning": "one hour",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_c.aac"
+          },
+          {
+            "Japanese meaning": "一時 (いちじ)",
+            "Translation meaning": "one o'clock",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_d.aac"
+          },
+          {
+            "Japanese meaning": "同時 (どうじ)",
+            "Translation meaning": "simultaneous(ly)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_e.aac"
+          },
+          {
+            "Japanese meaning": "当時 (とうじ)",
+            "Translation meaning": "in those days, then, at that time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_f.aac"
+          },
+          {
+            "Japanese meaning": "日時 (にちじ)",
+            "Translation meaning": "date and time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_g.aac"
+          },
+          {
+            "Japanese meaning": "時 (とき)",
+            "Translation meaning": "time, occasion",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_h.aac"
+          },
+          {
+            "Japanese meaning": "時々 (ときどき)",
+            "Translation meaning": "sometimes",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_i.aac"
+          },
+          {
+            "Japanese meaning": "昼時 (ひるどき)",
+            "Translation meaning": "noon",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ji-toki_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 10
+      },
+      {
+        "Symbol": "七",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/7_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "shichi",
+            "Katakana": "シチ"
+          },
+          "Kunyomi": {
+            "Romaji": "nana, nano",
+            "Hiragana": "なな、なの"
+          }
+        },
+        "Translation": "7",
+        "Words": [
+          {
+            "Japanese meaning": "七時 (しちじ)",
+            "Translation meaning": "7 o'clock",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_a.aac"
+          },
+          {
+            "Japanese meaning": "十七",
+            "Translation meaning": "17",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_b.aac"
+          },
+          {
+            "Japanese meaning": "七五三 (しちごさん)",
+            "Translation meaning": "festival for children aged 7, 5 and 3",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_c.aac"
+          },
+          {
+            "Japanese meaning": "七回 (ななかい)",
+            "Translation meaning": "7 times",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_d.aac"
+          },
+          {
+            "Japanese meaning": "七週間 (ななしゅうかん)",
+            "Translation meaning": "7 weeks",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_e.aac"
+          },
+          {
+            "Japanese meaning": "七才 (ななさい)",
+            "Translation meaning": "7 years old",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_f.aac"
+          },
+          {
+            "Japanese meaning": "七日 (なのか)",
+            "Translation meaning": "7 days, 7th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_g.aac"
+          },
+          {
+            "Japanese meaning": "七つ (ななつ)",
+            "Translation meaning": "7 (objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/7_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "車",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kuruma_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sha",
+            "Katakana": "シャ"
+          },
+          "Kunyomi": {
+            "Romaji": "kuruma",
+            "Hiragana": "くるま"
+          }
+        },
+        "Translation": "vehicle, wheel, car",
+        "Words": [
+          {
+            "Japanese meaning": "自転車 (じてんしゃ)",
+            "Translation meaning": "bicycle",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_a.aac"
+          },
+          {
+            "Japanese meaning": "電車 (でんしゃ)",
+            "Translation meaning": "train",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_b.aac"
+          },
+          {
+            "Japanese meaning": "自動車 (じどうしゃ)",
+            "Translation meaning": "automobile",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_c.aac"
+          },
+          {
+            "Japanese meaning": "駐車する (ちゅうしゃする)",
+            "Translation meaning": "park a car",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_d.aac"
+          },
+          {
+            "Japanese meaning": "停車する (ていしゃする)",
+            "Translation meaning": "stop a car or train",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_e.aac"
+          },
+          {
+            "Japanese meaning": "車 (くるま)",
+            "Translation meaning": "car",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_f.aac"
+          },
+          {
+            "Japanese meaning": "車いす (くるまいす)",
+            "Translation meaning": "wheel chair",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kuruma_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 7
+      },
+      {
+        "Symbol": "十",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/10_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "juu",
+            "Katakana": "ジュウ"
+          },
+          "Kunyomi": {
+            "Romaji": "too, to",
+            "Hiragana": "とお、と"
+          }
+        },
+        "Translation": "10",
+        "Words": [
+          {
+            "Japanese meaning": "十 (じゅう)",
+            "Translation meaning": "ten",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_a.aac"
+          },
+          {
+            "Japanese meaning": "十年 (じゅうねん)",
+            "Translation meaning": "10 years",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_b.aac"
+          },
+          {
+            "Japanese meaning": "十分な (じゅうぶんな)",
+            "Translation meaning": "enough",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_c.aac"
+          },
+          {
+            "Japanese meaning": "十か月 (じゅっかげつ)",
+            "Translation meaning": "10 months",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_d.aac"
+          },
+          {
+            "Japanese meaning": "十冊 (じゅっさつ)",
+            "Translation meaning": "10 (bound objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_e.aac"
+          },
+          {
+            "Japanese meaning": "十匹 (じゅっぴき)",
+            "Translation meaning": "10 (animals)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_f.aac"
+          },
+          {
+            "Japanese meaning": "十分 (じゅっぷん)",
+            "Translation meaning": "10 minutes",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_g.aac"
+          },
+          {
+            "Japanese meaning": "十本 (じゅっぽん)",
+            "Translation meaning": "10 (long cylindrical objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_h.aac"
+          },
+          {
+            "Japanese meaning": "十日 (とおか)",
+            "Translation meaning": "10 days, 10th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_i.aac"
+          },
+          {
+            "Japanese meaning": "十人十色 (じゅうにんといろ)",
+            "Translation meaning": "several men, several minds",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_j.aac"
+          },
+          {
+            "Japanese meaning": "二十才 (はたち)",
+            "Translation meaning": "20 years old",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_k.aac"
+          },
+          {
+            "Japanese meaning": "二十日 (はつか)",
+            "Translation meaning": "20 days, 20th day of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/10_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "出",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/de(ru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "shutsu, sui",
+            "Katakana": "シュツ、スイ"
+          },
+          "Kunyomi": {
+            "Romaji": "de, da",
+            "Hiragana": "で、だ"
+          }
+        },
+        "Translation": "go out, put out",
+        "Words": [
+          {
+            "Japanese meaning": "出身 (しゅっしん)",
+            "Translation meaning": "birth place, alma mater",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "出版社 (しゅっぱんしゃ)",
+            "Translation meaning": "publisher",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "出席する (しゅっせきする)",
+            "Translation meaning": "attend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "出発する (しゅっぱつする)",
+            "Translation meaning": "depart",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "輸出する (ゆしゅつする)",
+            "Translation meaning": "export",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "外出する (がいしゅつする)",
+            "Translation meaning": "go out",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "出納 (すいとう)",
+            "Translation meaning": "receipts and expenditure",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "出る (でる)",
+            "Translation meaning": "come out",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "出かける (でかける)",
+            "Translation meaning": "go out",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "出す (だす)",
+            "Translation meaning": "put out, send",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "引き出し (ひきだし)",
+            "Translation meaning": "drawer",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/de(ru)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "書",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sho-ka(ku)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sho",
+            "Katakana": "ショ"
+          },
+          "Kunyomi": {
+            "Romaji": "ka",
+            "Hiragana": "か"
+          }
+        },
+        "Translation": "write, book",
+        "Words": [
+          {
+            "Japanese meaning": "書庫 (しょこ)",
+            "Translation meaning": "archive",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "書斎 (しょさい)",
+            "Translation meaning": "study (room)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "書道 (しょどう)",
+            "Translation meaning": "calligraphy",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "辞書 (じしょ)",
+            "Translation meaning": "dictionary",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "秘書 (ひしょ)",
+            "Translation meaning": "(private) secretary",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "図書館 (としょかん)",
+            "Translation meaning": "library",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "教科書 (きょうかしょ)",
+            "Translation meaning": "text book",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "参考書 (さんこうしょ)",
+            "Translation meaning": "reference book",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "証明書 (しょうめいしょ)",
+            "Translation meaning": "certificate",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "書く (かく)",
+            "Translation meaning": "write",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "横書き (よこがき)",
+            "Translation meaning": "writing horizontally",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sho-ka(ku)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 10
+      },
+      {
+        "Symbol": "女",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/onna_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "jo, nyo, nyou",
+            "Katakana": "ジョ、ニョ、ニョウ"
+          },
+          "Kunyomi": {
+            "Romaji": "onna, me",
+            "Hiragana": "おんな、め"
+          }
+        },
+        "Translation": "woman",
+        "Words": [
+          {
+            "Japanese meaning": "女性 (じょせい)",
+            "Translation meaning": "female",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_a.aac"
+          },
+          {
+            "Japanese meaning": "女子学生 (じょしがくせい)",
+            "Translation meaning": "female student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_b.aac"
+          },
+          {
+            "Japanese meaning": "彼女 (かのじょ)",
+            "Translation meaning": "she, girl friend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_c.aac"
+          },
+          {
+            "Japanese meaning": "長女 (ちょうじょ)",
+            "Translation meaning": "eldest daughter",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_d.aac"
+          },
+          {
+            "Japanese meaning": "女人 (にょにん)",
+            "Translation meaning": "women",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_e.aac"
+          },
+          {
+            "Japanese meaning": "女房 (にょうぼう)",
+            "Translation meaning": "wife",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_f.aac"
+          },
+          {
+            "Japanese meaning": "女 (おんな)",
+            "Translation meaning": "woman",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_g.aac"
+          },
+          {
+            "Japanese meaning": "女の子 (おんなのこ)",
+            "Translation meaning": "girl",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_h.aac"
+          },
+          {
+            "Japanese meaning": "女々しい (めめしい)",
+            "Translation meaning": "effeminate",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/onna_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "小",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chii(sai)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "shou",
+            "Katakana": "ショウ"
+          },
+          "Kunyomi": {
+            "Romaji": "chii, ko, o",
+            "Hiragana": "ちい、こ、お"
+          }
+        },
+        "Translation": "small",
+        "Words": [
+          {
+            "Japanese meaning": "小説 (しょうせつ)",
+            "Translation meaning": "a novel",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "小学校 (しょうがっこう)",
+            "Translation meaning": "elementary school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "最小 (さいしょう)",
+            "Translation meaning": "minimum",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "大小 (だいしょう)",
+            "Translation meaning": "size",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "小さい (ちいさい)",
+            "Translation meaning": "small",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "小麦 (こむぎ)",
+            "Translation meaning": "wheat",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "小鳥 (ことり)",
+            "Translation meaning": "small bird",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "小川 (おがわ)",
+            "Translation meaning": "small stream, brook",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chii(sai)_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "上",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/jou-ue_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "jou, shou",
+            "Katakana": "ジョウ、ショウ"
+          },
+          "Kunyomi": {
+            "Romaji": "ue, uwa, kami, a, nobo",
+            "Hiragana": "うえ、うわ、かみ、あ、のぼ"
+          }
+        },
+        "Translation": "up",
+        "Words": [
+          {
+            "Japanese meaning": "上下する (じょうげする)",
+            "Translation meaning": "go up and down",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_a.aac"
+          },
+          {
+            "Japanese meaning": "頂上 (ちょうじょう)",
+            "Translation meaning": "summit",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_b.aac"
+          },
+          {
+            "Japanese meaning": "上手 (じょうず)",
+            "Translation meaning": "skillful",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_c.aac"
+          },
+          {
+            "Japanese meaning": "以上 (いじょう)",
+            "Translation meaning": "more than, above",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_d.aac"
+          },
+          {
+            "Japanese meaning": "上人 (しょうにん)",
+            "Translation meaning": "priest",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_e.aac"
+          },
+          {
+            "Japanese meaning": "上 (うえ)",
+            "Translation meaning": "above, on top, upper part of",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_f.aac"
+          },
+          {
+            "Japanese meaning": "目上 (めうえ)",
+            "Translation meaning": "superior(s)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_g.aac"
+          },
+          {
+            "Japanese meaning": "上回る (うわまわる)",
+            "Translation meaning": "exceed",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_h.aac"
+          },
+          {
+            "Japanese meaning": "川上 (かわかみ)",
+            "Translation meaning": "upper reaches of a river",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_i.aac"
+          },
+          {
+            "Japanese meaning": "上がる (あがる)",
+            "Translation meaning": "rise, climb up",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_j.aac"
+          },
+          {
+            "Japanese meaning": "上げる (あげる)",
+            "Translation meaning": "raise",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_k.aac"
+          },
+          {
+            "Japanese meaning": "上る (のぼる)",
+            "Translation meaning": "rise, climb up",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/jou-ue_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "食",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ta(beru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "shoku, jiki",
+            "Katakana": "ショク、ジキ"
+          },
+          "Kunyomi": {
+            "Romaji": "ku, kuu, ta, taberu",
+            "Hiragana": "く、くう、た、たべる"
+          }
+        },
+        "Translation": "eat, food",
+        "Words": [
+          {
+            "Japanese meaning": "食堂 (しょくどう)",
+            "Translation meaning": "dining hall",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "食欲 (しょくよく)",
+            "Translation meaning": "appetite (for food)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "食後 (しょくご)",
+            "Translation meaning": "after a meal",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "夕食 (ゆうしょく)",
+            "Translation meaning": "dinner",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "朝食 (ちょうしょく)",
+            "Translation meaning": "breakfast",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "和食 (わしょく)",
+            "Translation meaning": "japanese-style meal",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "食事する (しょくじする)",
+            "Translation meaning": "have a meal",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "断食する (だんじきする)",
+            "Translation meaning": "fast",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "食い物 (くいもの)",
+            "Translation meaning": "food",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "食べる (たべる)",
+            "Translation meaning": "eat",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "食べ物 (たべもの)",
+            "Translation meaning": "food",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ta(beru)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 9
+      },
+      {
+        "Symbol": "人",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nin-hito_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "jin, nin",
+            "Katakana": "ジン、ニン"
+          },
+          "Kunyomi": {
+            "Romaji": "hito",
+            "Hiragana": "ひと"
+          }
+        },
+        "Translation": "human being, person",
+        "Words": [
+          {
+            "Japanese meaning": "人類学 (じんるいがく)",
+            "Translation meaning": "anthropology",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_a.aac"
+          },
+          {
+            "Japanese meaning": "人生 (じんせい)",
+            "Translation meaning": "(human) life",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_b.aac"
+          },
+          {
+            "Japanese meaning": "人口 (じんこう)",
+            "Translation meaning": "population",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_c.aac"
+          },
+          {
+            "Japanese meaning": "日本人 (にほんじん)",
+            "Translation meaning": "japanese person",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_d.aac"
+          },
+          {
+            "Japanese meaning": "御主人 (ごしゅじん)",
+            "Translation meaning": "someone's husband",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_e.aac"
+          },
+          {
+            "Japanese meaning": "人間 (にんげん)",
+            "Translation meaning": "human",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_f.aac"
+          },
+          {
+            "Japanese meaning": "人 (ひと)",
+            "Translation meaning": "person",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_h.aac"
+          },
+          {
+            "Japanese meaning": "人柄 (ひとがら)",
+            "Translation meaning": "personality",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_i.aac"
+          },
+          {
+            "Japanese meaning": "一人 (ひとり)",
+            "Translation meaning": "one person",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_j.aac"
+          },
+          {
+            "Japanese meaning": "二人 (ふたり)",
+            "Translation meaning": "two people",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_k.aac"
+          },
+          {
+            "Japanese meaning": "素人 (しろうと)",
+            "Translation meaning": "amateur",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nin-hito_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "水",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mizu_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sui",
+            "Katakana": "スイ"
+          },
+          "Kunyomi": {
+            "Romaji": "mizu",
+            "Hiragana": "みず"
+          }
+        },
+        "Translation": "water",
+        "Words": [
+          {
+            "Japanese meaning": "水曜日 (すいようび)",
+            "Translation meaning": "wednesday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_a.aac"
+          },
+          {
+            "Japanese meaning": "水道 (すいどう)",
+            "Translation meaning": "water supply",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_b.aac"
+          },
+          {
+            "Japanese meaning": "水準 (すいじゅん)",
+            "Translation meaning": "level",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_c.aac"
+          },
+          {
+            "Japanese meaning": "水中 (すいちゅう)",
+            "Translation meaning": "underwater",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_d.aac"
+          },
+          {
+            "Japanese meaning": "海水 (かいすい)",
+            "Translation meaning": "ocean water",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_e.aac"
+          },
+          {
+            "Japanese meaning": "水 (みず)",
+            "Translation meaning": "water",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_f.aac"
+          },
+          {
+            "Japanese meaning": "水着 (みずぎ)",
+            "Translation meaning": "bathing suit",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_g.aac"
+          },
+          {
+            "Japanese meaning": "水色 (みずいろ)",
+            "Translation meaning": "light blue",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mizu_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "生",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/u(mu)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sei, shou",
+            "Katakana": "セイ、ショウ"
+          },
+          "Kunyomi": {
+            "Romaji": "i, u, o, ha, nama, ki",
+            "Hiragana": "い、う、お、は、なま、き"
+          }
+        },
+        "Translation": "life, be born, student",
+        "Words": [
+          {
+            "Japanese meaning": "学生 (がくせい)",
+            "Translation meaning": "student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "先生 (せんせい)",
+            "Translation meaning": "teacher, master, doctor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "一生 (いっしょう)",
+            "Translation meaning": "one's whole life",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "誕生日 (たんじょうび)",
+            "Translation meaning": "birthday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "生きる (いきる)",
+            "Translation meaning": "live",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "生まれる (うまれる)",
+            "Translation meaning": "be born",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "生える (はえる)",
+            "Translation meaning": "grow",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "生やす (はやす)",
+            "Translation meaning": "to cultivate",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "生卵 (なまたまご)",
+            "Translation meaning": "raw egg",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "生地 (きじ)",
+            "Translation meaning": "cloth, material",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/u(mu)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "西",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nishi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sei, sai",
+            "Katakana": "セイ、サイ"
+          },
+          "Kunyomi": {
+            "Romaji": "nishi",
+            "Hiragana": "にし"
+          }
+        },
+        "Translation": "west",
+        "Words": [
+          {
+            "Japanese meaning": "西部 (せいぶ)",
+            "Translation meaning": "western part",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nishi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "西洋 (せいよう)",
+            "Translation meaning": "the west",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nishi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "西暦 (せいれき)",
+            "Translation meaning": "christian era",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nishi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "関西 (かんさい)",
+            "Translation meaning": "kansai",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nishi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "東西 (とうざい)",
+            "Translation meaning": "east and west",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nishi_06_e.aac"
+          },
+          {
+            "Japanese meaning": "西 (にし)",
+            "Translation meaning": "west",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nishi_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "先",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-saki_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sen",
+            "Katakana": "セン"
+          },
+          "Kunyomi": {
+            "Romaji": "saki",
+            "Hiragana": "さき"
+          }
+        },
+        "Translation": "ahead",
+        "Words": [
+          {
+            "Japanese meaning": "先生 (せんせい)",
+            "Translation meaning": "teacher, master, doctor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_a.aac"
+          },
+          {
+            "Japanese meaning": "先週 (せんしゅう)",
+            "Translation meaning": "last week",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_b.aac"
+          },
+          {
+            "Japanese meaning": "先月 (せんげつ)",
+            "Translation meaning": "last month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_c.aac"
+          },
+          {
+            "Japanese meaning": "先学期 (せんがっき)",
+            "Translation meaning": "last semester",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_d.aac"
+          },
+          {
+            "Japanese meaning": "先輩 (せんぱい)",
+            "Translation meaning": "senior (at work or school)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_e.aac"
+          },
+          {
+            "Japanese meaning": "店先 (みせさき)",
+            "Translation meaning": "store front",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_g.aac"
+          },
+          {
+            "Japanese meaning": "先ず (まず)",
+            "Translation meaning": "first (of all)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "千",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-chi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sen",
+            "Katakana": "セン"
+          },
+          "Kunyomi": {
+            "Romaji": "chi",
+            "Hiragana": "ち"
+          }
+        },
+        "Translation": "1000",
+        "Words": [
+          {
+            "Japanese meaning": "千 (せん)",
+            "Translation meaning": "thousand",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-chi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "三千 (さんぜん)",
+            "Translation meaning": "3000",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-chi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "八千 (はっせん)",
+            "Translation meaning": "8000",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-chi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "千鳥 (ちどり)",
+            "Translation meaning": "pluvier",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-chi_06_e.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "川",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-kawa_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "sen",
+            "Katakana": "セン"
+          },
+          "Kunyomi": {
+            "Romaji": "kawa",
+            "Hiragana": "かわ"
+          }
+        },
+        "Translation": "river",
+        "Words": [
+          {
+            "Japanese meaning": "川 (かわ)",
+            "Translation meaning": "river",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_b.aac"
+          },
+          {
+            "Japanese meaning": "川上 (かわかみ)",
+            "Translation meaning": "upper reaches of a river",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_c.aac"
+          },
+          {
+            "Japanese meaning": "川下 (かわしも)",
+            "Translation meaning": "downstream",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_d.aac"
+          },
+          {
+            "Japanese meaning": "江戸川 (えどがわ)",
+            "Translation meaning": "edo river",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_e.aac"
+          },
+          {
+            "Japanese meaning": "小川 (おがわ)",
+            "Translation meaning": "small stream, brook",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/sen-kawa_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "前",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mae_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "zen",
+            "Katakana": "ゼン"
+          },
+          "Kunyomi": {
+            "Romaji": "mae",
+            "Hiragana": "まえ"
+          }
+        },
+        "Translation": "before, front",
+        "Words": [
+          {
+            "Japanese meaning": "午前 (ごぜん)",
+            "Translation meaning": "morning, a.m.",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_a.aac"
+          },
+          {
+            "Japanese meaning": "前日 (ぜんじつ)",
+            "Translation meaning": "previous day",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_b.aac"
+          },
+          {
+            "Japanese meaning": "前回 (ぜんかい)",
+            "Translation meaning": "last time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_c.aac"
+          },
+          {
+            "Japanese meaning": "前 (まえ)",
+            "Translation meaning": "before, previous",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_d.aac"
+          },
+          {
+            "Japanese meaning": "この前 (このまえ)",
+            "Translation meaning": "l'autre jour",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_e.aac"
+          },
+          {
+            "Japanese meaning": "名前 (なまえ)",
+            "Translation meaning": "name",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_f.aac"
+          },
+          {
+            "Japanese meaning": "手前 (てまえ)",
+            "Translation meaning": "ce côté-ci",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_g.aac"
+          },
+          {
+            "Japanese meaning": "駅前 (えきまえ)",
+            "Translation meaning": "devant la gare",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_h.aac"
+          },
+          {
+            "Japanese meaning": "前売り (まえうり)",
+            "Translation meaning": "advance sale",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/mae_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 9
+      },
+      {
+        "Symbol": "大",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/oo(kii)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "dai, tai",
+            "Katakana": "ダイ、タイ"
+          },
+          "Kunyomi": {
+            "Romaji": "oo",
+            "Hiragana": "おお"
+          }
+        },
+        "Translation": "big",
+        "Words": [
+          {
+            "Japanese meaning": "大学 (だいがく)",
+            "Translation meaning": "university",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "大学院 (だいがくいん)",
+            "Translation meaning": "graduate school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "大体 (だいたい)",
+            "Translation meaning": "in general, mostly",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "お大事に (おだいじに)",
+            "Translation meaning": "take care (to a sick person)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "大丈夫 (だいじょうぶ)",
+            "Translation meaning": "safe, all right",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "大分 (だいぶ)",
+            "Translation meaning": "considerably",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "大変な (たいへんな)",
+            "Translation meaning": "terrible, very",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "大した (たいした)",
+            "Translation meaning": "significant",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "大きい (おおきい)",
+            "Translation meaning": "big",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "大阪 (おおさか)",
+            "Translation meaning": "osaka",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/oo(kii)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "男",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/otoko_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "dan, nan",
+            "Katakana": "ダン、ナン"
+          },
+          "Kunyomi": {
+            "Romaji": "otoko",
+            "Hiragana": "おとこ"
+          }
+        },
+        "Translation": "man",
+        "Words": [
+          {
+            "Japanese meaning": "男子学生 (だんしがくせい)",
+            "Translation meaning": "male student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/otoko_06_a.aac"
+          },
+          {
+            "Japanese meaning": "男性 (だんせい)",
+            "Translation meaning": "male",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/otoko_06_b.aac"
+          },
+          {
+            "Japanese meaning": "長男 (ちょうなん)",
+            "Translation meaning": "eldest son",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/otoko_06_c.aac"
+          },
+          {
+            "Japanese meaning": "男 (おとこ)",
+            "Translation meaning": "man",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/otoko_06_d.aac"
+          }
+        ],
+        "NumberOfStrokes": 7
+      },
+      {
+        "Symbol": "中",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chuu-naka_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "chuu",
+            "Katakana": "チュウ"
+          },
+          "Kunyomi": {
+            "Romaji": "naka",
+            "Hiragana": "なか"
+          }
+        },
+        "Translation": "middle, in",
+        "Words": [
+          {
+            "Japanese meaning": "中国 (ちゅうごく)",
+            "Translation meaning": "china",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_a.aac"
+          },
+          {
+            "Japanese meaning": "中年 (ちゅうねん)",
+            "Translation meaning": "middle-age",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_b.aac"
+          },
+          {
+            "Japanese meaning": "中学校 (ちゅうがっこう)",
+            "Translation meaning": "junior high school",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_c.aac"
+          },
+          {
+            "Japanese meaning": "中華料理 (ちゅうかりょうり)",
+            "Translation meaning": "chinese food",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_d.aac"
+          },
+          {
+            "Japanese meaning": "途中 (とちゅう)",
+            "Translation meaning": "on the way",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_e.aac"
+          },
+          {
+            "Japanese meaning": "工事中 (こうじちゅう)",
+            "Translation meaning": "under construction",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_f.aac"
+          },
+          {
+            "Japanese meaning": "中 (なか)",
+            "Translation meaning": "inside",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_g.aac"
+          },
+          {
+            "Japanese meaning": "中村 (なかむら)",
+            "Translation meaning": "nakamura (surname)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_h.aac"
+          },
+          {
+            "Japanese meaning": "中川 (なかがわ)",
+            "Translation meaning": "nakagawa (surname)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_i.aac"
+          },
+          {
+            "Japanese meaning": "田中 (たなか)",
+            "Translation meaning": "tanaka (surname)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_j.aac"
+          },
+          {
+            "Japanese meaning": "体中 (からだじゅう)",
+            "Translation meaning": "throughout the body",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_k.aac"
+          },
+          {
+            "Japanese meaning": "今年中 に (ことしじゅうに)",
+            "Translation meaning": "within this year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "長",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chou-naga(i)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "chou",
+            "Katakana": "チョウ"
+          },
+          "Kunyomi": {
+            "Romaji": "naga",
+            "Hiragana": "なが"
+          }
+        },
+        "Translation": "long, chief",
+        "Words": [
+          {
+            "Japanese meaning": "身長 (しんちょう)",
+            "Translation meaning": "height (of body)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "社長 (しゃちょう)",
+            "Translation meaning": "company president",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "市長 (しちょう)",
+            "Translation meaning": "mayor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "会長 (かいちょう)",
+            "Translation meaning": "president (of a society)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "長期 (ちょうき)",
+            "Translation meaning": "long time period",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "長時間 (ちょうじかん)",
+            "Translation meaning": "long-term, long-range",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "長男 (ちょうなん)",
+            "Translation meaning": "eldest son",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "長女 (ちょうじょ)",
+            "Translation meaning": "eldest daughter",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "長所 (ちょうしょ)",
+            "Translation meaning": "strong point",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "成長する (せいちょうする)",
+            "Translation meaning": "grow",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "長い (ながい)",
+            "Translation meaning": "long",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/chou-naga(i)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 8
+      },
+      {
+        "Symbol": "天",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ten-ama_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ten",
+            "Katakana": "テン"
+          },
+          "Kunyomi": {
+            "Romaji": "ame, ama",
+            "Hiragana": "あめ、あま"
+          }
+        },
+        "Translation": "heaven",
+        "Words": [
+          {
+            "Japanese meaning": "天気 (てんき)",
+            "Translation meaning": "weather, fine weather",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_a.aac"
+          },
+          {
+            "Japanese meaning": "天候 (てんこう)",
+            "Translation meaning": "weather",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_b.aac"
+          },
+          {
+            "Japanese meaning": "天国 (てんごく)",
+            "Translation meaning": "heaven",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_c.aac"
+          },
+          {
+            "Japanese meaning": "天皇 (てんのう)",
+            "Translation meaning": "emperor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_d.aac"
+          },
+          {
+            "Japanese meaning": "天才 (てんさい)",
+            "Translation meaning": "genius",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_e.aac"
+          },
+          {
+            "Japanese meaning": "晴天 (せいてん)",
+            "Translation meaning": "fine weather",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_f.aac"
+          },
+          {
+            "Japanese meaning": "雨天 (うてん)",
+            "Translation meaning": "rainy weather",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_g.aac"
+          },
+          {
+            "Japanese meaning": "天 (あめ)",
+            "Translation meaning": "sky",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_i.aac"
+          },
+          {
+            "Japanese meaning": "天の川 (あまのがわ)",
+            "Translation meaning": "milky way",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/ten-ama_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "電",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/den(wa)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "den",
+            "Katakana": "デン"
+          },
+          "Kunyomi": {
+            "Romaji": "n/a",
+            "Hiragana": ""
+          }
+        },
+        "Translation": "electricity",
+        "Words": [
+          {
+            "Japanese meaning": "電話する (でんわする)",
+            "Translation meaning": "make a telephone call",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "発電する (はつでんする)",
+            "Translation meaning": "generate power",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "電話 (でんわ)",
+            "Translation meaning": "telephone",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "電話番号 (でんわばんごう)",
+            "Translation meaning": "phone number",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "電気 (でんき)",
+            "Translation meaning": "electricity",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "電気屋 (でんきや)",
+            "Translation meaning": "electrical appliance store",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "電車 (でんしゃ)",
+            "Translation meaning": "electric train",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "電子レンジ (でんしレンジ)",
+            "Translation meaning": "microwave oven",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "終電 (しゅうでん)",
+            "Translation meaning": "last train",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "停電 (ていでん)",
+            "Translation meaning": "loss of electricity",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/den(wa)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 13
+      },
+      {
+        "Symbol": "土",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tsuchi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "do, to",
+            "Katakana": "ド、ト"
+          },
+          "Kunyomi": {
+            "Romaji": "tsuchi",
+            "Hiragana": "つち"
+          }
+        },
+        "Translation": "soil, earth, ground",
+        "Words": [
+          {
+            "Japanese meaning": "土曜日 (どようび)",
+            "Translation meaning": "saturday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "土日 (どにち)",
+            "Translation meaning": "weekend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "郷土 (きょうど)",
+            "Translation meaning": "homeland",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "土地 (とち)",
+            "Translation meaning": "parcelle de terre",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "土 (つち)",
+            "Translation meaning": "soil",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_e.aac"
+          },
+          {
+            "Japanese meaning": "土産 (みやげ)",
+            "Translation meaning": "present, souvenir",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/tsuchi_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "東",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/higashi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "tou",
+            "Katakana": "トウ"
+          },
+          "Kunyomi": {
+            "Romaji": "higashi",
+            "Hiragana": "ひがし"
+          }
+        },
+        "Translation": "east",
+        "Words": [
+          {
+            "Japanese meaning": "東京 (とうきょう)",
+            "Translation meaning": "tokyo",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "東部 (とうぶ)",
+            "Translation meaning": "eastern part",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "東北 (とうほく)",
+            "Translation meaning": "northeast",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "東洋 (とうよう)",
+            "Translation meaning": "east asia",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "東西南北 (とうざいなんぼく)",
+            "Translation meaning": "east, west, south and north",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_e.aac"
+          },
+          {
+            "Japanese meaning": "関東 (かんとう)",
+            "Translation meaning": "kantou (tokyo area)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_f.aac"
+          },
+          {
+            "Japanese meaning": "中東 (ちゅうとう)",
+            "Translation meaning": "moyen-orient",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_g.aac"
+          },
+          {
+            "Japanese meaning": "東 (ひがし)",
+            "Translation meaning": "east",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/higashi_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 8
+      },
+      {
+        "Symbol": "読",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/yo(mu)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "doku, toku, tou",
+            "Katakana": "ドク、トク、トウ"
+          },
+          "Kunyomi": {
+            "Romaji": "yo",
+            "Hiragana": "よ"
+          }
+        },
+        "Translation": "read",
+        "Words": [
+          {
+            "Japanese meaning": "読者 (どくしゃ)",
+            "Translation meaning": "reader",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "読書 (どくしょ)",
+            "Translation meaning": "reading",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "読解力 (どっかいりょく)",
+            "Translation meaning": "reading ability",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "読点 (とうてん)",
+            "Translation meaning": "comma",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "読む (よむ)",
+            "Translation meaning": "read",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "読売新聞 (よみうりしんぶん)",
+            "Translation meaning": "yomiuri (newspaper)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "立ち読みする (たちよみする)",
+            "Translation meaning": "browse in a bookstore",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "読み方 (よみかた)",
+            "Translation meaning": "way of reading",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "読み直す (よみなおす)",
+            "Translation meaning": "read something over again",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yo(mu)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 14
+      },
+      {
+        "Symbol": "南",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/minami_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "nan",
+            "Katakana": "ナン"
+          },
+          "Kunyomi": {
+            "Romaji": "minami",
+            "Hiragana": "みなみ"
+          }
+        },
+        "Translation": "south",
+        "Words": [
+          {
+            "Japanese meaning": "南極 (なんきょく)",
+            "Translation meaning": "south pole",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_a.aac"
+          },
+          {
+            "Japanese meaning": "南北 (なんぼく)",
+            "Translation meaning": "south and north",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_b.aac"
+          },
+          {
+            "Japanese meaning": "南部 (なんぶ)",
+            "Translation meaning": "southern part",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_c.aac"
+          },
+          {
+            "Japanese meaning": "東南アジア (とうなんアジア)",
+            "Translation meaning": "southeast asia",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_d.aac"
+          },
+          {
+            "Japanese meaning": "南 (みなみ)",
+            "Translation meaning": "south",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_e.aac"
+          },
+          {
+            "Japanese meaning": "南半球 (みなみはんきゅう)",
+            "Translation meaning": "southern hemisphere",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/minami_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 9
+      },
+      {
+        "Symbol": "二",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/2_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "ni",
+            "Katakana": "ニ"
+          },
+          "Kunyomi": {
+            "Romaji": "futa",
+            "Hiragana": "ふた"
+          }
+        },
+        "Translation": "2",
+        "Words": [
+          {
+            "Japanese meaning": "二時間 (にじかん)",
+            "Translation meaning": "two hours",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_a.aac"
+          },
+          {
+            "Japanese meaning": "二月 (にがつ)",
+            "Translation meaning": "february",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_b.aac"
+          },
+          {
+            "Japanese meaning": "二つ (ふたつ)",
+            "Translation meaning": "two, pair",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_d.aac"
+          },
+          {
+            "Japanese meaning": "二人 (ふたり)",
+            "Translation meaning": "two people",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/2_06_e.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "日",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nichi-hi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "nichi, jitsu",
+            "Katakana": "ニチ、ジツ"
+          },
+          "Kunyomi": {
+            "Romaji": "hi, ka",
+            "Hiragana": "ひ、か"
+          }
+        },
+        "Translation": "day, sun, Japan",
+        "Words": [
+          {
+            "Japanese meaning": "一日 (いちにち)",
+            "Translation meaning": "1 day",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "日数 (にっすう)",
+            "Translation meaning": "a number of days",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "本日 (ほんじつ)",
+            "Translation meaning": "today",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "朝日 (あさひ)",
+            "Translation meaning": "morning sun",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "二日 (ふつか)",
+            "Translation meaning": "2nd of the month, 2 days",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_e.aac"
+          },
+          {
+            "Japanese meaning": "一日 (ついたち)",
+            "Translation meaning": "1st of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_f.aac"
+          },
+          {
+            "Japanese meaning": "今日 (きょう)",
+            "Translation meaning": "today",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_g.aac"
+          },
+          {
+            "Japanese meaning": "明日 (あした)",
+            "Translation meaning": "tomorrow",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_h.aac"
+          },
+          {
+            "Japanese meaning": "昨日 (きのう)",
+            "Translation meaning": "yesterday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_i.aac"
+          },
+          {
+            "Japanese meaning": "明後日 (あさって)",
+            "Translation meaning": "day after tomorrow",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_j.aac"
+          },
+          {
+            "Japanese meaning": "一昨日 (おととい)",
+            "Translation meaning": "day before yesterday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_k.aac"
+          },
+          {
+            "Japanese meaning": "日本語 (にほんご)",
+            "Translation meaning": "japanese language",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nichi-hi_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "入",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hai(ru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "nyuu",
+            "Katakana": "ニュウ"
+          },
+          "Kunyomi": {
+            "Romaji": "i, hai",
+            "Hiragana": "い、はい"
+          }
+        },
+        "Translation": "enter, put in",
+        "Words": [
+          {
+            "Japanese meaning": "収入 (しゅうにゅう)",
+            "Translation meaning": "income",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "入学する (にゅうがくする)",
+            "Translation meaning": "entry school or university",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "入国する (にゅうこくする)",
+            "Translation meaning": "entry a country",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "輸入する (ゆにゅうする)",
+            "Translation meaning": "import",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "気に入る (きにいる)",
+            "Translation meaning": "be pleased with, come to like",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "入り口 (いりぐち)",
+            "Translation meaning": "entrance",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "仲間入り (なかまいり)",
+            "Translation meaning": "join a group",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "入れる (いれる)",
+            "Translation meaning": "put in, let in",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "入れ物 (いれもの)",
+            "Translation meaning": "container",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "入る (はいる)",
+            "Translation meaning": "enter, get in",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hai(ru)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "年",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nen-toshi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "nen",
+            "Katakana": "ネン"
+          },
+          "Kunyomi": {
+            "Romaji": "toshi",
+            "Hiragana": "とし"
+          }
+        },
+        "Translation": "year",
+        "Words": [
+          {
+            "Japanese meaning": "一年生",
+            "Translation meaning": "first-year student",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "去年 (きょねん)",
+            "Translation meaning": "last year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "来年 (らいねん)",
+            "Translation meaning": ":f year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "中年 (ちゅうねん)",
+            "Translation meaning": "middle age",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "万年筆 (まんねんひつ)",
+            "Translation meaning": "fountain pen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_e.aac"
+          },
+          {
+            "Japanese meaning": "お年寄り (おとしより)",
+            "Translation meaning": "elderly person",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_f.aac"
+          },
+          {
+            "Japanese meaning": "今年 (ことし)",
+            "Translation meaning": "this year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_g.aac"
+          },
+          {
+            "Japanese meaning": "年上 (としうえ)",
+            "Translation meaning": "older",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_h.aac"
+          },
+          {
+            "Japanese meaning": "半年 (はんとし)",
+            "Translation meaning": "half a year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/nen-toshi_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "白",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shiro(i)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "haku, byaku",
+            "Katakana": "ハク、ビャク"
+          },
+          "Kunyomi": {
+            "Romaji": "shiro, shira",
+            "Hiragana": "しろ、しら"
+          }
+        },
+        "Translation": "white",
+        "Words": [
+          {
+            "Japanese meaning": "白紙 (はくし)",
+            "Translation meaning": "white paper",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "白人 (はくじん)",
+            "Translation meaning": "caucasian",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "白鳥 (はくちょう)",
+            "Translation meaning": "swan",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "空白 (くうはく)",
+            "Translation meaning": "blank space",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "明白な (めいはくな)",
+            "Translation meaning": "obvious",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "白夜 (びゃくや)",
+            "Translation meaning": "white (arctic) night",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "白い (しろい)",
+            "Translation meaning": "white",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "白髪 (しらが)",
+            "Translation meaning": "white or grey hair",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/shiro(i)_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "八",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/8_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "hachi",
+            "Katakana": "ハチ"
+          },
+          "Kunyomi": {
+            "Romaji": "ya, you",
+            "Hiragana": "や、よう"
+          }
+        },
+        "Translation": "8",
+        "Words": [
+          {
+            "Japanese meaning": "八月 (はちがつ)",
+            "Translation meaning": "august",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_a.aac"
+          },
+          {
+            "Japanese meaning": "八時間 (はちじかん)",
+            "Translation meaning": "8 hours",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_b.aac"
+          },
+          {
+            "Japanese meaning": "尺八 (しゃくはち)",
+            "Translation meaning": "bamboo flute",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_c.aac"
+          },
+          {
+            "Japanese meaning": "八回 (はっかい)",
+            "Translation meaning": "8 times",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_d.aac"
+          },
+          {
+            "Japanese meaning": "八分 (はっぷん)",
+            "Translation meaning": "8 minutes",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_e.aac"
+          },
+          {
+            "Japanese meaning": "八百 (はっぴゃく)",
+            "Translation meaning": "800",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_f.aac"
+          },
+          {
+            "Japanese meaning": "八つ (やっつ)",
+            "Translation meaning": "8",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_g.aac"
+          },
+          {
+            "Japanese meaning": "八百屋 (やおや)",
+            "Translation meaning": "greengrocer",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_h.aac"
+          },
+          {
+            "Japanese meaning": "八重桜 (やえざくら)",
+            "Translation meaning": "double-flowered cherry-tree",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_i.aac"
+          },
+          {
+            "Japanese meaning": "八日 (ようか)",
+            "Translation meaning": "8 days, 8th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/8_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 2
+      },
+      {
+        "Symbol": "半",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/han-naka(ba)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "han",
+            "Katakana": "ハン"
+          },
+          "Kunyomi": {
+            "Romaji": "naka",
+            "Hiragana": "なか"
+          }
+        },
+        "Translation": "half",
+        "Words": [
+          {
+            "Japanese meaning": "半分 (はんぶん)",
+            "Translation meaning": "half",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "半額 (はんがく)",
+            "Translation meaning": "half price",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "半導体 (はんどうたい)",
+            "Translation meaning": "semiconductor",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "半熟 (はんじゅく)",
+            "Translation meaning": "soft-boiled",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "一時半 (いちじはん)",
+            "Translation meaning": "half past one",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "二年半 (にねんはん)",
+            "Translation meaning": "two and a half years",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "月半ば (つきなかば)",
+            "Translation meaning": "middle of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/han-naka(ba)_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "百",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hyaku-momo_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "hyaku",
+            "Katakana": "ヒャク"
+          },
+          "Kunyomi": {
+            "Romaji": "n/a",
+            "Hiragana": ""
+          }
+        },
+        "Translation": "100",
+        "Words": [
+          {
+            "Japanese meaning": "百 (ひゃく)",
+            "Translation meaning": "hundred",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_a.aac"
+          },
+          {
+            "Japanese meaning": "百倍 (ひゃくばい)",
+            "Translation meaning": "hundredfold",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_b.aac"
+          },
+          {
+            "Japanese meaning": "百姓 (ひゃくしょう)",
+            "Translation meaning": "farmer",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_c.aac"
+          },
+          {
+            "Japanese meaning": "三百 (さんびゃく)",
+            "Translation meaning": "300",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_d.aac"
+          },
+          {
+            "Japanese meaning": "六百 (ろっぴゃく)",
+            "Translation meaning": "600",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_e.aac"
+          },
+          {
+            "Japanese meaning": "八百 (はっぴゃく)",
+            "Translation meaning": "800",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_f.aac"
+          },
+          {
+            "Japanese meaning": "八百屋 (やおや)",
+            "Translation meaning": "greengrocer",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hyaku-momo_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "父",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fu-chichi_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "fu",
+            "Katakana": "フ"
+          },
+          "Kunyomi": {
+            "Romaji": "chichi",
+            "Hiragana": "ちち"
+          }
+        },
+        "Translation": "father",
+        "Words": [
+          {
+            "Japanese meaning": "父母 (ふぼ)",
+            "Translation meaning": "father and mother",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fu-chichi_06_a.aac"
+          },
+          {
+            "Japanese meaning": "祖父 (そふ)",
+            "Translation meaning": "grandfather",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fu-chichi_06_b.aac"
+          },
+          {
+            "Japanese meaning": "父 (ちち)",
+            "Translation meaning": "father",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fu-chichi_06_c.aac"
+          },
+          {
+            "Japanese meaning": "父親 (ちちおや)",
+            "Translation meaning": "father",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fu-chichi_06_d.aac"
+          },
+          {
+            "Japanese meaning": "お父さん (おとうさん)",
+            "Translation meaning": "father",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fu-chichi_06_e.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "分",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fun-wa(keru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "bun, fun, bu",
+            "Katakana": "ブン、フン、ブ"
+          },
+          "Kunyomi": {
+            "Romaji": "wa",
+            "Hiragana": "わ"
+          }
+        },
+        "Translation": "divide, part, minute",
+        "Words": [
+          {
+            "Japanese meaning": "随分 (ずいぶん)",
+            "Translation meaning": "extremely",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "多分 (たぶん)",
+            "Translation meaning": "perhaps",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "十分に (じゅうぶんに)",
+            "Translation meaning": "enough",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "自分 (じぶん)",
+            "Translation meaning": "oneself",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "何分 (なんぷん)",
+            "Translation meaning": "how many minutes",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "毎分 (まいふん)",
+            "Translation meaning": "every minute",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "大分 (だいぶ)",
+            "Translation meaning": "considerably",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "三割五分 (さんわりごぶ)",
+            "Translation meaning": "35 percent",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "分かれ道 (わかれみち)",
+            "Translation meaning": "crossroads",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "分ける (わける)",
+            "Translation meaning": "divide",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_j.aac"
+          },
+          {
+            "Japanese meaning": "分かる (わかる)",
+            "Translation meaning": "understand",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_k.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "聞",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bun-ki(ku)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "bun, mon",
+            "Katakana": "ブン、モン"
+          },
+          "Kunyomi": {
+            "Romaji": "ki",
+            "Hiragana": "き"
+          }
+        },
+        "Translation": "hear, listen, ask",
+        "Words": [
+          {
+            "Japanese meaning": "新聞 (しんぶん)",
+            "Translation meaning": "newspaper",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/bun-ki(ku)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "前代未聞 (ぜんだいみもん)",
+            "Translation meaning": "unheard-of",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/bun-ki(ku)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "聞く (きく)",
+            "Translation meaning": "listen, hear, ask a question",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/bun-ki(ku)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "聞こえる (きこえる)",
+            "Translation meaning": "can be heard, hear",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/bun-ki(ku)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "聞き手 (ききて)",
+            "Translation meaning": "listener",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/bun-ki(ku)_06_e.aac"
+          }
+        ],
+        "NumberOfStrokes": 14
+      },
+      {
+        "Symbol": "母",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/haha_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "bo",
+            "Katakana": "ボ"
+          },
+          "Kunyomi": {
+            "Romaji": "haha",
+            "Hiragana": "はは"
+          }
+        },
+        "Translation": "mother",
+        "Words": [
+          {
+            "Japanese meaning": "母国語 (ぼこくご)",
+            "Translation meaning": "mother tongue",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_a.aac"
+          },
+          {
+            "Japanese meaning": "母音 (ぼいん)",
+            "Translation meaning": "vowel",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_b.aac"
+          },
+          {
+            "Japanese meaning": "母校 (ぼこう)",
+            "Translation meaning": "alma mater (latin)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_c.aac"
+          },
+          {
+            "Japanese meaning": "祖母 (そぼ)",
+            "Translation meaning": "grandmother",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_d.aac"
+          },
+          {
+            "Japanese meaning": "母 (はは)",
+            "Translation meaning": "one's own mother",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_e.aac"
+          },
+          {
+            "Japanese meaning": "母親 (ははおや)",
+            "Translation meaning": "mother",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_f.aac"
+          },
+          {
+            "Japanese meaning": "お母さん (おかあさん)",
+            "Translation meaning": "mother",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/haha_06_g.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "北",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kita_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "hoku",
+            "Katakana": "ホク"
+          },
+          "Kunyomi": {
+            "Romaji": "kita",
+            "Hiragana": "きた"
+          }
+        },
+        "Translation": "north",
+        "Words": [
+          {
+            "Japanese meaning": "北部 (ほくぶ)",
+            "Translation meaning": "northern part",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_a.aac"
+          },
+          {
+            "Japanese meaning": "北欧 (ほくおう)",
+            "Translation meaning": "northern europe",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_b.aac"
+          },
+          {
+            "Japanese meaning": "東北 (とうほく)",
+            "Translation meaning": "northeast",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_c.aac"
+          },
+          {
+            "Japanese meaning": "北海道 (ほっかいどう)",
+            "Translation meaning": "hokkaido",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_d.aac"
+          },
+          {
+            "Japanese meaning": "敗北する (はいぼくする)",
+            "Translation meaning": "be defeated",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_e.aac"
+          },
+          {
+            "Japanese meaning": "南北 (なんぼく)",
+            "Translation meaning": "south and north",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_f.aac"
+          },
+          {
+            "Japanese meaning": "北 (きた)",
+            "Translation meaning": "north",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_g.aac"
+          },
+          {
+            "Japanese meaning": "北風 (きたかぜ)",
+            "Translation meaning": "north wind",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_h.aac"
+          },
+          {
+            "Japanese meaning": "北半球 (きたはんきゅう)",
+            "Translation meaning": "northern hemisphere",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/kita_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "本",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hon-moto_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "hon",
+            "Katakana": "ホン"
+          },
+          "Kunyomi": {
+            "Romaji": "moto",
+            "Hiragana": "もと"
+          }
+        },
+        "Translation": "basis, book, this",
+        "Words": [
+          {
+            "Japanese meaning": "本 (ほん)",
+            "Translation meaning": "book",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_a.aac"
+          },
+          {
+            "Japanese meaning": "本日 (ほんじつ)",
+            "Translation meaning": "today",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_b.aac"
+          },
+          {
+            "Japanese meaning": "本店 (ほんてん)",
+            "Translation meaning": "head office",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_c.aac"
+          },
+          {
+            "Japanese meaning": "本当に (ほんとうに)",
+            "Translation meaning": "really",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_d.aac"
+          },
+          {
+            "Japanese meaning": "基本 (きほん)",
+            "Translation meaning": "basis",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_e.aac"
+          },
+          {
+            "Japanese meaning": "絵本 (えほん)",
+            "Translation meaning": "picture book",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_f.aac"
+          },
+          {
+            "Japanese meaning": "日本 (にほん)",
+            "Translation meaning": "japan",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_g.aac"
+          },
+          {
+            "Japanese meaning": "日本語 (にほんご)",
+            "Translation meaning": "japanese language",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_h.aac"
+          },
+          {
+            "Japanese meaning": "三本 (さんぼん)",
+            "Translation meaning": "3 (long cylindrical objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_i.aac"
+          },
+          {
+            "Japanese meaning": "六本 (ろっぽん)",
+            "Translation meaning": "6 (long cylindrical objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_j.aac"
+          },
+          {
+            "Japanese meaning": "十本 (じゅっぽん)",
+            "Translation meaning": "10 (long cylindrical objects)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_k.aac"
+          },
+          {
+            "Japanese meaning": "山本 (やまもと)",
+            "Translation meaning": "yamamoto (surname)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/hon-moto_06_l.aac"
+          }
+        ],
+        "NumberOfStrokes": 5
+      },
+      {
+        "Symbol": "毎",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/goto_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "mai",
+            "Katakana": "マイ"
+          },
+          "Kunyomi": {
+            "Romaji": "goto",
+            "Hiragana": "ごと"
+          }
+        },
+        "Translation": "every",
+        "Words": [
+          {
+            "Japanese meaning": "毎朝 (まいあさ)",
+            "Translation meaning": "every morning",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/goto_06_a.aac"
+          },
+          {
+            "Japanese meaning": "毎日 (まいにち)",
+            "Translation meaning": "every day",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/goto_06_b.aac"
+          },
+          {
+            "Japanese meaning": "毎回 (まいかい)",
+            "Translation meaning": "every time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/goto_06_c.aac"
+          },
+          {
+            "Japanese meaning": "毎度 (まいど)",
+            "Translation meaning": "each time",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/goto_06_d.aac"
+          },
+          {
+            "Japanese meaning": "毎週 (まいしゅう)",
+            "Translation meaning": "every week",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/goto_06_e.aac"
+          },
+          {
+            "Japanese meaning": "三日毎に (みっかごとに)",
+            "Translation meaning": "every 3 days",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/goto_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "万",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(nan)man_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "man, ban",
+            "Katakana": "マン、バン"
+          },
+          "Kunyomi": {
+            "Romaji": "n/a",
+            "Hiragana": ""
+          }
+        },
+        "Translation": "10000",
+        "Words": [
+          {
+            "Japanese meaning": "一万円 (いちまんえん)",
+            "Translation meaning": "ten thousand yen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_a.aac"
+          },
+          {
+            "Japanese meaning": "万年筆 (まんねんひつ)",
+            "Translation meaning": "fountain pen",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_b.aac"
+          },
+          {
+            "Japanese meaning": "万引きする (まんびきする)",
+            "Translation meaning": "shoplift",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_c.aac"
+          },
+          {
+            "Japanese meaning": "万歳 (ばんざい)",
+            "Translation meaning": "banzai! (cheer)",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_d.aac"
+          },
+          {
+            "Japanese meaning": "万能 (ばんのう)",
+            "Translation meaning": "all-purpose",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_e.aac"
+          },
+          {
+            "Japanese meaning": "万事 (ばんじ)",
+            "Translation meaning": "everything",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/(nan)man_06_f.aac"
+          }
+        ],
+        "NumberOfStrokes": 3
+      },
+      {
+        "Symbol": "名",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/na(mae)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "mei, myou",
+            "Katakana": "メイ、ミョウ"
+          },
+          "Kunyomi": {
+            "Romaji": "na",
+            "Hiragana": "な"
+          }
+        },
+        "Translation": "name",
+        "Words": [
+          {
+            "Japanese meaning": "氏名 (しめい)",
+            "Translation meaning": "full name",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "題名 (だいめい)",
+            "Translation meaning": "title",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "一名 (いちめい)",
+            "Translation meaning": "one person",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "有名な (ゆうめいな)",
+            "Translation meaning": "famous",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "名物 (めいぶつ)",
+            "Translation meaning": "local speciality",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "名曲 (めいきょく)",
+            "Translation meaning": "great music",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "名刺 (めいし)",
+            "Translation meaning": "business card",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "名誉な (めいよな)",
+            "Translation meaning": "honorable",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "本名 (ほんみょう)",
+            "Translation meaning": "real name",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "名字 (みょうじ)",
+            "Translation meaning": "family name",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/na(mae)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 6
+      },
+      {
+        "Symbol": "木",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/moku-ki_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "boku, moku",
+            "Katakana": "ボク、モク"
+          },
+          "Kunyomi": {
+            "Romaji": "ki, ko",
+            "Hiragana": "き、こ"
+          }
+        },
+        "Translation": "tree, wood",
+        "Words": [
+          {
+            "Japanese meaning": "大木 (たいぼく)",
+            "Translation meaning": "large tree",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/moku-ki_06_a.aac"
+          },
+          {
+            "Japanese meaning": "木曜日 (もくようび)",
+            "Translation meaning": "thursday",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/moku-ki_06_b.aac"
+          },
+          {
+            "Japanese meaning": "木材 (もくざい)",
+            "Translation meaning": "lumber",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/moku-ki_06_c.aac"
+          },
+          {
+            "Japanese meaning": "木造 (もくぞう)",
+            "Translation meaning": "wooden",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/moku-ki_06_d.aac"
+          },
+          {
+            "Japanese meaning": "植木 (うえき)",
+            "Translation meaning": "garden shrubs",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/moku-ki_06_g.aac"
+          },
+          {
+            "Japanese meaning": "木の葉 (このは)",
+            "Translation meaning": "foliage, leaf",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/moku-ki_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "友",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/yuu-tomo_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "yuu",
+            "Katakana": "ユウ"
+          },
+          "Kunyomi": {
+            "Romaji": "tomo",
+            "Hiragana": "とも"
+          }
+        },
+        "Translation": "friend",
+        "Words": [
+          {
+            "Japanese meaning": "友人 (ゆうじん)",
+            "Translation meaning": "friend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yuu-tomo_06_a.aac"
+          },
+          {
+            "Japanese meaning": "友情 (ゆうじょう)",
+            "Translation meaning": "friendship",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yuu-tomo_06_b.aac"
+          },
+          {
+            "Japanese meaning": "親友 (しんゆう)",
+            "Translation meaning": "close friend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/yuu-tomo_06_c.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "来",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/rai-ku(ru)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "rai",
+            "Katakana": "ライ"
+          },
+          "Kunyomi": {
+            "Romaji": "ku, kita",
+            "Hiragana": "く、きた"
+          }
+        },
+        "Translation": "come",
+        "Words": [
+          {
+            "Japanese meaning": "来月 (らいげつ)",
+            "Translation meaning": "next month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "来週 (らいしゅう)",
+            "Translation meaning": "next week",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "来年 (らいねん)",
+            "Translation meaning": "next year",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "将来 (しょうらい)",
+            "Translation meaning": "future",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "以来 (いらい)",
+            "Translation meaning": "since",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "来日する (らいにちする)",
+            "Translation meaning": "visit japan",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "来す (きたす)",
+            "Translation meaning": "cause",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/rai-ku(ru)_06_i.aac"
+          }
+        ],
+        "NumberOfStrokes": 7
+      },
+      {
+        "Symbol": "六",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/6_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "roku",
+            "Katakana": "ロク"
+          },
+          "Kunyomi": {
+            "Romaji": "mu, mui",
+            "Hiragana": "む、むい"
+          }
+        },
+        "Translation": "6",
+        "Words": [
+          {
+            "Japanese meaning": "六時 (ろくじ)",
+            "Translation meaning": "6 o'clock",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/6_06_a.aac"
+          },
+          {
+            "Japanese meaning": "六才 (ろくさい)",
+            "Translation meaning": "6 years old",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/6_06_b.aac"
+          },
+          {
+            "Japanese meaning": "六番目 (ろくばんめ)",
+            "Translation meaning": "6th",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/6_06_c.aac"
+          },
+          {
+            "Japanese meaning": "六月 (ろくがつ)",
+            "Translation meaning": "june",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/6_06_d.aac"
+          },
+          {
+            "Japanese meaning": "六百 (ろっぴゃく)",
+            "Translation meaning": "600",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/6_06_f.aac"
+          },
+          {
+            "Japanese meaning": "六日 (むいか)",
+            "Translation meaning": "6 days, 6th of the month",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/6_06_h.aac"
+          }
+        ],
+        "NumberOfStrokes": 4
+      },
+      {
+        "Symbol": "話",
+        "Drawing": "https://media.kanjialive.com/kanji_animations/kanji_mp4/wa-hana(su)_00.mp4",
+        "Pronunciation": {
+          "Onyomi": {
+            "Romaji": "wa",
+            "Katakana": "ワ"
+          },
+          "Kunyomi": {
+            "Romaji": "hana",
+            "Hiragana": "はな"
+          }
+        },
+        "Translation": "speak",
+        "Words": [
+          {
+            "Japanese meaning": "電話 (でんわ)",
+            "Translation meaning": "telephone",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_a.aac"
+          },
+          {
+            "Japanese meaning": "会話 (かいわ)",
+            "Translation meaning": "conversation",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_b.aac"
+          },
+          {
+            "Japanese meaning": "話題 (わだい)",
+            "Translation meaning": "topic",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_c.aac"
+          },
+          {
+            "Japanese meaning": "童話 (どうわ)",
+            "Translation meaning": "fairy tale",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_d.aac"
+          },
+          {
+            "Japanese meaning": "話す (はなす)",
+            "Translation meaning": "speak",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_e.aac"
+          },
+          {
+            "Japanese meaning": "話し方 (はなしかた)",
+            "Translation meaning": "way of talking",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_f.aac"
+          },
+          {
+            "Japanese meaning": "話 (はなし)",
+            "Translation meaning": "story, conversation",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_g.aac"
+          },
+          {
+            "Japanese meaning": "話し中 (はなしちゅう)",
+            "Translation meaning": "while talking",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_h.aac"
+          },
+          {
+            "Japanese meaning": "笑い話 (わらいばなし)",
+            "Translation meaning": "funny story",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_i.aac"
+          },
+          {
+            "Japanese meaning": "昔話 (むかしばなし)",
+            "Translation meaning": "folklore, legend",
+            "Sound URL": "https://media.kanjialive.com/examples_audio/audio-aac/wa-hana(su)_06_j.aac"
+          }
+        ],
+        "NumberOfStrokes": 13
+      }
+    ]
+  }
+]
