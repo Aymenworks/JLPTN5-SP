@@ -1,5 +1,20 @@
 <template>
   <div>
+    <v-toolbar light>
+        <v-menu>
+          <v-toolbar-title slot="activator">
+            <span>{{ sections[0] }}</span>
+            <v-icon light>arrow_drop_down</v-icon>
+          </v-toolbar-title>
+
+          <v-list>
+            <v-list-tile v-for="section in sections" :key="section">
+              <v-list-tile-title v-text="section"/>
+            </v-list-tile>
+          </v-list>
+      </v-menu>
+    </v-toolbar>
+    
     <div class="loading" v-if="loading">
       Loading...
     </div>
@@ -30,7 +45,10 @@ export default {
   data() {
     return {
       loading: false,
-      kanjis: null
+      kanjis: null,
+      sections: [
+        "Kanjis", "Hiragana", "Katakana"
+      ]
     }
   },
   methods: {
