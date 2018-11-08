@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-toolbar light>
+    <v-toolbar fixed>
         <v-menu>
           <v-toolbar-title slot="activator">
             <span>{{ sections[0] }}</span>
@@ -14,7 +14,7 @@
           </v-list>
       </v-menu>
     </v-toolbar>
-    
+
     <div class="loading" v-if="loading">
       Loading...
     </div>
