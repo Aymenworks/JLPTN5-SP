@@ -1,10 +1,8 @@
 <template>
-    <v-card color="transparent" class="lightShadow">
-        <v-responsive :aspect-ratio="1/1">
-            <v-card-text class="kanjiText">{{ kanji.character }}</v-card-text>
-            <v-divider light/>
-            <v-card-text class="kanjiTranslation">{{ kanji.translation }}</v-card-text>
-        </v-responsive>
+    <v-card color="transparent" class="lightShadow" height="130px" :to="{ name: 'kanjiDetail', params: { kanji: kanji } }">
+        <v-card-text class="kanjiText text-japanese">{{ kanji.character }}</v-card-text>
+        <v-divider light/>
+        <v-card-text class="kanjiTranslation" >{{ kanji.translation }}</v-card-text>
     </v-card>
 </template>
 
@@ -26,13 +24,15 @@ export default {
   box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
 }
 .kanjiText {
-  color: black;
   font-weight: bold;
+text-align: center;
   font-size: 28px;
 }
 .kanjiTranslation {
-  color: rgb(210, 210, 210);
+  color: rgb(200, 200, 200);
   font-weight: regular;
   font-size: 14px;
+  overflow-wrap: break-word;
+  text-align: center;
 }
 </style>

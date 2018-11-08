@@ -6,17 +6,17 @@
 
       <v-bottom-nav>
 
-        <v-btn color="teal" flat to="/">
+        <v-btn color="teal" flat :to="{ name: 'home'}">
           <span>Home</span>
           <v-icon>home</v-icon>
         </v-btn>
 
-        <v-btn color="teal" flat to="/quizzes">
+        <v-btn color="teal" flat :to="{ name: 'quizzes'}">
           <span>Quizzes</span>
           <v-icon>book</v-icon>
         </v-btn>
 
-        <v-btn color="teal" flat to="/about">
+        <v-btn color="teal" flat :to="{ name: 'about'}">
           <span>About</span>
           <v-icon>help</v-icon>
         </v-btn>
@@ -25,8 +25,14 @@
   </div>
 </template>
 
-<style scoped>
-body {
-  font-family: Times,serif,"Times New Roman";
+<style>
+
+body, p {
+  font-family: 'Roboto';
 }
+
+.text-japanese {
+    font-family: "Kokoro";
+}
+
 </style>
