@@ -1,7 +1,9 @@
 export class Kanji {
 
-    constructor(character, translation) {
+    constructor(character, translation, words, pronunciation) {
         this.character = character;
         this.translation = translation;
+        this.words = words;
+        this.pronunciation = pronunciation;
     }
-  }
+}

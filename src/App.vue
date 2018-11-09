@@ -4,22 +4,21 @@
           <router-view/>
         </v-content>
 
-        <v-bottom-nav>
-          <v-btn color="teal" flat :to="{ name: 'home'}">
-            <span>Home</span>
-            <v-icon>home</v-icon>
-          </v-btn>
+        <v-footer fixed height="auto">
+          <v-layout justify-center row wrap>
+            <v-btn large icon flat :to="{ name: 'home'}">
+              <v-icon>home</v-icon>
+            </v-btn>
 
-          <v-btn color="teal" flat :to="{ name: 'quizzes'}">
-            <span>Quizzes</span>
-            <v-icon>book</v-icon>
-          </v-btn>
+            <v-btn large icon flat :to="{ name: 'quizzes'}">
+              <v-icon>book</v-icon>
+            </v-btn>
 
-          <v-btn color="teal" flat :to="{ name: 'about'}">
-            <span>About</span>
-            <v-icon>help</v-icon>
-          </v-btn>
-        </v-bottom-nav>
+            <v-btn large icon flat :to="{ name: 'about'}">
+              <v-icon>help</v-icon>
+            </v-btn>
+          </v-layout>
+        </v-footer>
   </v-app>
 </template>
 
