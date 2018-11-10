@@ -13,7 +13,7 @@
                     <v-list-tile>
 
                         <v-list-tile-content>
-                            <v-list-tile-title>onyoni: {{ kanji.pronunciation.onyomi }}</v-list-tile-title>
+                            <v-list-tile-title>onyomi: {{ kanji.pronunciation.onyomi }}</v-list-tile-title>
                             <v-list-tile-title>kunyomi: {{ kanji.pronunciation.kunyomi }}</v-list-tile-title>
                         </v-list-tile-content>
 

@@ -22,17 +22,16 @@ export default {
 <style scoped>
 .lightShadow {
   box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
 }
 .kanjiText {
-  font-weight: bold;
+font-weight: bold;
 text-align: center;
   font-size: 28px;
 }
 .kanjiTranslation {
   color: rgb(200, 200, 200);
-  font-weight: regular;
   font-size: 14px;
-  overflow-wrap: break-word;
   text-align: center;
 }
 </style>
