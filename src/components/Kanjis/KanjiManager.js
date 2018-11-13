@@ -1,7 +1,7 @@
 import KanjiJSON from '../../assets/KanjiEN.json'
-import {Kanji} from './Kanji.js'
-import {Word} from './Word.js'
-import {Pronunciation} from './Pronunciation.js'
+import Kanji from './Kanji.js'
+import Word from './Word.js'
+import Pronunciation from './Pronunciation.js'
 
 class KanjiManager {
   constructor () {
