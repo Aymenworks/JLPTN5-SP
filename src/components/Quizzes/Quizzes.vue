@@ -20,7 +20,7 @@
 </template>
 
 <script>
-  import {Quizz} from './Quizz.js'
+  import Quizz from '../../models/Quizz.js'
   
     export default {
         created() {

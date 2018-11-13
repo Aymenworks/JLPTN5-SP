@@ -8,7 +8,7 @@
           </v-toolbar-title>
 
           <v-list>
-            <v-list-tile v-for="section in sections" :key="section">
+            <v-list-tile v-for="section in sections" :key="section" @click="changeSection">
               <v-list-tile-title v-text="section"/>
             </v-list-tile>
           </v-list>
@@ -27,7 +27,7 @@
 
 <script>
 import KanjiItem from '@/components/Kanjis/KanjiItem'
-import KanjiManager from './KanjiManager.js'
+import DataManager from '../../Utils/DataManager.js'
 
 export default {
   components: {
@@ -35,11 +35,16 @@ export default {
   },
   data() {
     return {
-      kanjis: KanjiManager.kanjis,
+      kanjis: DataManager.kanjis,
       sections: [
         "Kanjis", "Hiragana", "Katakana"
       ]
     }
   },
+  methods: {
+    changeSection() {
+      console.log("click")
+    }
+  }
 }
 </script>

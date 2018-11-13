@@ -4,42 +4,33 @@
         <v-btn icon @click="goBack" flat><v-icon>arrow_back</v-icon></v-btn>
     </v-toolbar>
           
-    <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ quizz.title }}</p>
+    <p id="kanjiDetailCharacter" class="ma-5 text-japanese text-xs-center">{{ currentQuestion.question }}</p>
     <v-container grid-list-xl>
-        <v-layout row wrap  align-center justify-center>
-            <v-flex xs6 @click="chooseAnswer">
+        <v-layout row wrap >
+            <v-flex xs6 v-for="possibleAnswer in currentQuestion.possibleAnswers" :key="possibleAnswer"  @click="chooseAnswer(possibleAnswer)">
                 <v-card class="quizzAnswerBlock pa-5">
-                    <v-card-text class="pa-4">Purple</v-card-text>
-                </v-card>
-            </v-flex>
-            <v-flex xs6 @click="chooseAnswer">
-                <v-card class="quizzAnswerBlock pa-5">
-                    <v-card-text class="pa-4">Purple</v-card-text>
-                </v-card>
-            </v-flex>
-            <v-flex xs6 @click="chooseAnswer" >
-                <v-card class="quizzAnswerBlock pa-5">
-                    <v-card-text >Purple</v-card-text>
-                </v-card>
-            </v-flex>
-            <v-flex xs6 @click="chooseAnswer" >
-                <v-card class="quizzAnswerBlock pa-5">
-                    <v-card-text>Purple</v-card-text>
+                    <v-card-text class="pa-4">{{ possibleAnswer }}</v-card-text>
                 </v-card>
             </v-flex>
          </v-layout>
-
     </v-container>
-
   </div>
 </template>
 
 
 <script>
+import Quizz from '../../models/Quizz.js'
+
 export default {
     data() {
         return {
-            quizz: this.$route.params.quizz
+            quizz: Quizz.numbersQCM(),
+            currentQuestionIndex: 0
+        }
+    },
+    computed: {
+        currentQuestion: function() {
+            return this.quizz.questions[this.currentQuestionIndex]
         }
     },
     methods: {
@@ -47,9 +38,14 @@ export default {
             window.history.length > 1 ? this.$router.go(-1) : 
                                         this.$router.push({ name: 'home' })
         },
-        chooseAnswer() {
-            console.log("answer choose");
+        chooseAnswer(answer) {
+            if(this.currentQuestionIndex + 1 > this.quizz.questions.length - 1) {
+                this.currentQuestionIndex = 0
+            } else {
+                this.currentQuestionIndex += 1
+            }
         }
+        
     }
 }
 </script>
@@ -58,14 +54,14 @@ export default {
 #kanjiDetailCharacter {
     color: black;
     font-weight: bold;
-    font-size: 100px;
+    font-size: 140px;
 }
 
 .quizzAnswerBlock {
     font-weight: bolder;
     font-size: 30px;
-    background: transparent;s
-      border-radius: 4px;
+    background: transparent;
+    border-radius: 4px;
     box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
 
 }

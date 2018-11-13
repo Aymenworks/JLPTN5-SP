@@ -1,10 +1,17 @@
-import KanjiJSON from '../../assets/KanjiEN.json'
-import Kanji from './Kanji.js'
-import Word from './Word.js'
-import Pronunciation from './Pronunciation.js'
+import KanjiJSON from '../assets/KanjiEN.json'
+import HiraganaJSON from '../assets/Hiragana.json'
+import KatakanaJSON from '../assets/Katakana.json'
+import Kanji from '../models/Kanji.js'
+import Word from '../models/Word.js'
+import Pronunciation from '../models/Pronunciation.js'
 
-class KanjiManager {
+class DataManager {
   constructor () {
+    this.loadKanjis()
+    this.loadHiraganas()
+  }
+
+  loadKanjis () {
     var kanjisList = KanjiJSON[0]['KanjiList']
     var kanjisSymbols = []
     for (var i = 0; i < kanjisList.length; i++) {
@@ -20,9 +27,13 @@ class KanjiManager {
     }
     this.kanjis = kanjisSymbols
   }
+
+  loadHiraganas () {
+    console.log(HiraganaJSON[0]['HiraganaMonographs'])
+  }
 }
 
-const instance = new KanjiManager()
+const instance = new DataManager()
 Object.freeze(instance)
 
 export default instance

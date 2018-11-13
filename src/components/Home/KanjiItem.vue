@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import Kanji from './Kanji.js'
+import Kanji from '../../models/Kanji.js'
 
 export default {
     props: {

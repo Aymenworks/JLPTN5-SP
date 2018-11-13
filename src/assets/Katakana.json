@@ -1,0 +1,444 @@
+[
+  {
+    "KatakanaMonographs": [
+      [
+        {
+          "Symbol": "ア",
+          "Pronunciation": "a"
+        },
+        {
+          "Symbol": "イ",
+          "Pronunciation": "i"
+        },
+        {
+          "Symbol": "ウ",
+          "Pronunciation": "u"
+        },
+        {
+          "Symbol": "エ",
+          "Pronunciation": "e"
+        },
+        {
+          "Symbol": "オ",
+          "Pronunciation": "o"
+        }
+      ],
+      [
+        {
+          "Symbol": "カ",
+          "Pronunciation": "ka"
+        },
+        {
+          "Symbol": "キ",
+          "Pronunciation": "ki"
+        },
+        {
+          "Symbol": "ク\n",
+          "Pronunciation": "ku"
+        },
+        {
+          "Symbol": "ケ",
+          "Pronunciation": "ke"
+        },
+        {
+          "Symbol": "コ",
+          "Pronunciation": "ko"
+        },
+        {
+          "Symbol": "ガ",
+          "Pronunciation": "ga"
+        },
+        {
+          "Symbol": "ギ",
+          "Pronunciation": "gi"
+        },
+        {
+          "Symbol": "グ",
+          "Pronunciation": "gu"
+        },
+        {
+          "Symbol": "ゲ",
+          "Pronunciation": "ge"
+        },
+        {
+          "Symbol": "ゴ",
+          "Pronunciation": "go"
+        }
+      ],
+      [
+        {
+          "Symbol": "サ",
+          "Pronunciation": "sa"
+        },
+        {
+          "Symbol": "シ",
+          "Pronunciation": "shi"
+        },
+        {
+          "Symbol": "ス",
+          "Pronunciation": "su"
+        },
+        {
+          "Symbol": "セ",
+          "Pronunciation": "se"
+        },
+        {
+          "Symbol": "ソ",
+          "Pronunciation": "so"
+        },
+        {
+          "Symbol": "ザ",
+          "Pronunciation": "za"
+        },
+        {
+          "Symbol": "ジ",
+          "Pronunciation": "ji"
+        },
+        {
+          "Symbol": "ズ",
+          "Pronunciation": "zu"
+        },
+        {
+          "Symbol": "ゼ",
+          "Pronunciation": "ze"
+        },
+        {
+          "Symbol": "ゾ",
+          "Pronunciation": "zo"
+        }
+      ],
+      [
+        {
+          "Symbol": "タ",
+          "Pronunciation": "ta"
+        },
+        {
+          "Symbol": "チ",
+          "Pronunciation": "chi"
+        },
+        {
+          "Symbol": "ツ",
+          "Pronunciation": "tsu"
+        },
+        {
+          "Symbol": "テ",
+          "Pronunciation": "te"
+        },
+        {
+          "Symbol": "ト",
+          "Pronunciation": "to"
+        },
+        {
+          "Symbol": "ダ",
+          "Pronunciation": "da"
+        },
+        {
+          "Symbol": "ヂ",
+          "Pronunciation": "ji"
+        },
+        {
+          "Symbol": "ヅ",
+          "Pronunciation": "zu"
+        },
+        {
+          "Symbol": "デ",
+          "Pronunciation": "de"
+        },
+        {
+          "Symbol": "ド",
+          "Pronunciation": "do"
+        }
+      ],
+      [
+        {
+          "Symbol": "ナ",
+          "Pronunciation": "na"
+        },
+        {
+          "Symbol": "ニ",
+          "Pronunciation": "ni"
+        },
+        {
+          "Symbol": "ヌ",
+          "Pronunciation": "nu"
+        },
+        {
+          "Symbol": "ネ",
+          "Pronunciation": "ne"
+        },
+        {
+          "Symbol": "ノ",
+          "Pronunciation": "no"
+        }
+      ],
+      [
+        {
+          "Symbol": "ハ",
+          "Pronunciation": "ha"
+        },
+        {
+          "Symbol": "ヒ",
+          "Pronunciation": "hi"
+        },
+        {
+          "Symbol": "フ",
+          "Pronunciation": "fu"
+        },
+        {
+          "Symbol": "ヘ",
+          "Pronunciation": "he"
+        },
+        {
+          "Symbol": "ホ",
+          "Pronunciation": "ho"
+        },
+        {
+          "Symbol": "バ",
+          "Pronunciation": "ba"
+        },
+        {
+          "Symbol": "ビ",
+          "Pronunciation": "bi"
+        },
+        {
+          "Symbol": "ブ",
+          "Pronunciation": "bu"
+        },
+        {
+          "Symbol": "ベ",
+          "Pronunciation": "be"
+        },
+        {
+          "Symbol": "ボ",
+          "Pronunciation": "bo"
+        },
+        {
+          "Symbol": "パ",
+          "Pronunciation": "pa"
+        },
+        {
+          "Symbol": "ピ",
+          "Pronunciation": "pi"
+        },
+        {
+          "Symbol": "プ",
+          "Pronunciation": "pu"
+        },
+        {
+          "Symbol": "ペ",
+          "Pronunciation": "pe"
+        },
+        {
+          "Symbol": "ポ",
+          "Pronunciation": "po"
+        }
+      ],
+      [
+        {
+          "Symbol": "マ",
+          "Pronunciation": "ma"
+        },
+        {
+          "Symbol": "ミ",
+          "Pronunciation": "mi"
+        },
+        {
+          "Symbol": "ム",
+          "Pronunciation": "mu"
+        },
+        {
+          "Symbol": "メ",
+          "Pronunciation": "me"
+        },
+        {
+          "Symbol": "モ",
+          "Pronunciation": "mo"
+        }
+      ],
+      [
+        {
+          "Symbol": "ヤ",
+          "Pronunciation": "ya"
+        },
+        {
+          "Symbol": "ユ",
+          "Pronunciation": "yu"
+        },
+        {
+          "Symbol": "ヨ",
+          "Pronunciation": "yo"
+        }
+      ],
+      [
+        {
+          "Symbol": "ラ",
+          "Pronunciation": "ra"
+        },
+        {
+          "Symbol": "リ",
+          "Pronunciation": "ri"
+        },
+        {
+          "Symbol": "ル",
+          "Pronunciation": "ru"
+        },
+        {
+          "Symbol": "レ",
+          "Pronunciation": "re"
+        },
+        {
+          "Symbol": "ロ",
+          "Pronunciation": "ro"
+        }
+      ],
+      [
+        {
+          "Symbol": "ワ",
+          "Pronunciation": "wa"
+        },
+        {
+          "Symbol": "ヲ",
+          "Pronunciation": "wo"
+        },
+        {
+          "Symbol": "ン",
+          "Pronunciation": "n"
+        }
+      ]
+    ],
+    "KatakanaDigraphs": [
+      {
+        "Symbol": "キャ",
+        "Pronunciation": "kya"
+      },
+      {
+        "Symbol": "キュ",
+        "Pronunciation": "kyu"
+      },
+      {
+        "Symbol": "キョ",
+        "Pronunciation": "kyo"
+      },
+      {
+        "Symbol": "シャ",
+        "Pronunciation": "sha"
+      },
+      {
+        "Symbol": "シュ",
+        "Pronunciation": "shu"
+      },
+      {
+        "Symbol": "ショ",
+        "Pronunciation": "sho"
+      },
+      {
+        "Symbol": "チャ",
+        "Pronunciation": "cha"
+      },
+      {
+        "Symbol": "チュ",
+        "Pronunciation": "chu"
+      },
+      {
+        "Symbol": "チョ",
+        "Pronunciation": "cho"
+      },
+      {
+        "Symbol": "ニャ",
+        "Pronunciation": "nya"
+      },
+      {
+        "Symbol": "ニュ",
+        "Pronunciation": "nyu"
+      },
+      {
+        "Symbol": "ニョ",
+        "Pronunciation": "nyo"
+      },
+      {
+        "Symbol": "ヒャ",
+        "Pronunciation": "hya"
+      },
+      {
+        "Symbol": "ヒュ",
+        "Pronunciation": "hyu"
+      },
+      {
+        "Symbol": "ヒョ",
+        "Pronunciation": "hyo"
+      },
+      {
+        "Symbol": "ミャ",
+        "Pronunciation": "mya"
+      },
+      {
+        "Symbol": "ミュ",
+        "Pronunciation": "myu"
+      },
+      {
+        "Symbol": "ミョ",
+        "Pronunciation": "myo"
+      },
+      {
+        "Symbol": "リャ",
+        "Pronunciation": "rya"
+      },
+      {
+        "Symbol": "リュ",
+        "Pronunciation": "ryu"
+      },
+      {
+        "Symbol": "リョ",
+        "Pronunciation": "ryo"
+      },
+      {
+        "Symbol": "ギャ",
+        "Pronunciation": "gya"
+      },
+      {
+        "Symbol": "ギュ",
+        "Pronunciation": "gyu"
+      },
+      {
+        "Symbol": "ギョ",
+        "Pronunciation": "gyo"
+      },
+      {
+        "Symbol": "ジャ",
+        "Pronunciation": "ja"
+      },
+      {
+        "Symbol": "ジュ",
+        "Pronunciation": "ju"
+      },
+      {
+        "Symbol": "ジョ",
+        "Pronunciation": "jo"
+      },
+      {
+        "Symbol": "ビャ",
+        "Pronunciation": "bya"
+      },
+      {
+        "Symbol": "ビュ",
+        "Pronunciation": "byu"
+      },
+      {
+        "Symbol": "ビョ",
+        "Pronunciation": "byo"
+      },
+      {
+        "Symbol": "ピャ",
+        "Pronunciation": "pya"
+      },
+      {
+        "Symbol": "ピュ",
+        "Pronunciation": "pyu"
+      },
+      {
+        "Symbol": "ピョ",
+        "Pronunciation": "pyo"
+      }
+    ]
+  }
+]
