@@ -4,7 +4,7 @@
           <router-view/>
         </v-content>
 
-        <v-footer fixed height="auto">
+        <v-footer app fixed height="auto">
           <v-layout justify-center row wrap>
             <v-btn large icon flat :to="{ name: 'home'}">
               <v-icon>home</v-icon>

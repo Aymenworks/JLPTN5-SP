@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-toolbar light>
+    <v-toolbar app fixed>
         <v-btn icon @click="goBack" flat><v-icon>arrow_back</v-icon></v-btn>
     </v-toolbar>
           

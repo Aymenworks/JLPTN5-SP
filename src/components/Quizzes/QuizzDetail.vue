@@ -1,15 +1,15 @@
 <template>
 <div>
-    <v-toolbar light>
+    <v-toolbar app fixed>
         <v-btn icon @click="goBack" flat><v-icon>arrow_back</v-icon></v-btn>
     </v-toolbar>
           
-    <p id="kanjiDetailCharacter" class="ma-5 text-japanese text-xs-center">{{ currentQuestion.question }}</p>
+    <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ currentQuestion.question }}</p>
     <v-container grid-list-xl>
         <v-layout row wrap >
             <v-flex xs6 v-for="possibleAnswer in currentQuestion.possibleAnswers" :key="possibleAnswer"  @click="chooseAnswer(possibleAnswer)">
                 <v-card class="quizzAnswerBlock pa-5">
-                    <v-card-text class="pa-4">{{ possibleAnswer }}</v-card-text>
+                    <v-card-text class="">{{ possibleAnswer }}</v-card-text>
                 </v-card>
             </v-flex>
          </v-layout>
@@ -39,6 +39,7 @@ export default {
                                         this.$router.push({ name: 'home' })
         },
         chooseAnswer(answer) {
+            console.log(answer == this.currentQuestion.answer);
             if(this.currentQuestionIndex + 1 > this.quizz.questions.length - 1) {
                 this.currentQuestionIndex = 0
             } else {
