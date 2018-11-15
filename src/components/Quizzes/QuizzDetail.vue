@@ -7,8 +7,8 @@
     <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ currentQuestion.question }}</p>
     <v-container grid-list-xl>
         <v-layout row wrap >
-            <v-flex xs6 v-for="(possibleAnswer, index) in currentQuestion.possibleAnswers" :key="possibleAnswer" @click="chooseAnswer(possibleAnswer)">
-                <v-card class="quizzAnswerBlock pa-5 scaleOnHover" :class="showColoredAnswer ? (currentQuestion.answer == possibleAnswer ? 'green' : 'red') : ''">
+            <v-flex xs6 v-for="(possibleAnswer, index) in currentQuestion.possibleAnswers" :key="possibleAnswer" :disabled="true" @click="chooseAnswer(possibleAnswer)">
+                <v-card class="quizzAnswerBlock pa-5 scaleOnHover" :class="showColoredAnswer ? (currentQuestion.answer == possibleAnswer ? 'rightAnswer' : 'wrongAnswer') : 'normalState'">
                     <v-card-text>{{ possibleAnswer }}</v-card-text>
                 </v-card>
             </v-flex>
@@ -70,6 +70,20 @@ export default {
     font-size: 30px;
     border-radius: 4px;
     box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
+}
 
+.rightAnswer {
+    background: green;
+    color: white;
+}
+
+.wrongAnswer {
+    background: red;
+    color: white;
+}
+
+.normalState {
+    background: white;
+    color: black;
 }
 </style>
