@@ -32,4 +32,12 @@ body, p {
     font-family: "Kokoro";
 }
 
+.scaleOnHover {
+  transition-duration: 0.3s;
+}
+
+.scaleOnHover:hover {
+  transform: scale(1.1,1.1);
+}
+
 </style>

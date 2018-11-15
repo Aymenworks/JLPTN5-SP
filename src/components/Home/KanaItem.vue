@@ -1,5 +1,5 @@
 <template>
-    <v-card color="transparent" class="lightShadow" height="130px">
+    <v-card color="transparent" @mouseover="animateKana"  class="lightShadow scaleOnHover" height="130px">
         <v-card-text class="kanaText text-japanese">{{ kana.character }}</v-card-text>
         <v-divider light/>
         <v-card-text class="kanaTranslation" >{{ kana.pronunciation }}</v-card-text>
