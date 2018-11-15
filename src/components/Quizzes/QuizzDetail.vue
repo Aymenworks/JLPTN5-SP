@@ -7,9 +7,9 @@
     <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ currentQuestion.question }}</p>
     <v-container grid-list-xl>
         <v-layout row wrap >
-            <v-flex xs6 v-for="possibleAnswer in currentQuestion.possibleAnswers" :key="possibleAnswer"  @click="chooseAnswer(possibleAnswer)">
-                <v-card class="quizzAnswerBlock pa-5">
-                    <v-card-text class="">{{ possibleAnswer }}</v-card-text>
+            <v-flex xs6 v-for="(possibleAnswer, index) in currentQuestion.possibleAnswers" :key="possibleAnswer" @click="chooseAnswer(possibleAnswer)">
+                <v-card class="quizzAnswerBlock pa-5 scaleOnHover" :class="showColoredAnswer ? (currentQuestion.answer == possibleAnswer ? 'green' : 'red') : ''">
+                    <v-card-text>{{ possibleAnswer }}</v-card-text>
                 </v-card>
             </v-flex>
          </v-layout>
@@ -25,7 +25,8 @@ export default {
     data() {
         return {
             quizz: Quizz.numbersQCM(),
-            currentQuestionIndex: 0
+            currentQuestionIndex: 0,
+            showColoredAnswer: false
         }
     },
     computed: {
@@ -38,15 +39,21 @@ export default {
             window.history.length > 1 ? this.$router.go(-1) : 
                                         this.$router.push({ name: 'home' })
         },
-        chooseAnswer(answer) {
-            console.log(answer == this.currentQuestion.answer);
+        nextQuestion() {
             if(this.currentQuestionIndex + 1 > this.quizz.questions.length - 1) {
                 this.currentQuestionIndex = 0
             } else {
                 this.currentQuestionIndex += 1
             }
-        }
-        
+        },
+        chooseAnswer(answer) {
+            this.showColoredAnswer = true
+            setTimeout(function(){
+                this.showColoredAnswer = false
+                this.nextQuestion()
+            }.bind(this), 2000);
+            
+        },        
     }
 }
 </script>
@@ -61,7 +68,6 @@ export default {
 .quizzAnswerBlock {
     font-weight: bolder;
     font-size: 30px;
-    background: transparent;
     border-radius: 4px;
     box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
 
