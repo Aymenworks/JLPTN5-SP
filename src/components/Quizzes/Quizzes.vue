@@ -6,7 +6,7 @@
 
     <v-container grid-list-xl>
        <v-layout row wrap>
-          <v-flex xs12 v-for="quizz in quizzes" :key="quizz.id">
+          <v-flex xs12 md6 v-for="quizz in quizzes" :key="quizz.id">
               <v-card :style="{background: quizz.color}" class="quizzSquare shad">
                 <v-card-title>
                   <h1>{{ quizz.title }}</h1>
