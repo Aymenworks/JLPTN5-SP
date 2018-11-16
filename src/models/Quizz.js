@@ -2,12 +2,11 @@ import Question from './Question.js'
 import DataManager from '../Utils/DataManager.js'
 
 export default class Quizz {
-  constructor (id, title, resource, hasImage = true) {
+  constructor (id, title, color, questions = null) {
     this.id = id
     this.title = title
-    this.resource = resource
-    this.hasImage = hasImage
-    this.questions = null
+    this.color = color
+    this.questions = questions
   }
 
   static kanjiNumbers = ['一', '二', '三', '四', '五', '六', '八', '九', '十', '百', '三百', '六百', '八百', '千', '万', '十七']
@@ -41,8 +40,7 @@ export default class Quizz {
       questions.push(new Question(kanjiUsedForQuestion.character, possibleAnswers, kanjiUsedForQuestion.translation))
     }
 
-    const quizz = new Quizz(null, null, null, null)
-    quizz.questions = questions
+    const quizz = new Quizz(null, null, null, questions)
 
     return quizz
   }

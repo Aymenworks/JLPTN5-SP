@@ -1,21 +1,24 @@
 <template>
   <div>
-    <v-layout mx-3>
-      <v-flex>
-          <v-list class="background-transparent">
-            <div v-for="section in sections" :key="section.title">
-              <v-subheader>{{ section.title }}</v-subheader>
-              <v-list-tile v-for="quizz in section.quizzes" :key="quizz.id" :to="{ name: 'quizzDetail', params: { quizz: quizz } }">
-                <v-btn block left flat large class="text-xs-left">
-                  <v-icon v-if="quizz.hasImage">{{ quizz.resource }}</v-icon>
-                  <div v-else :style="{background: quizz.resource}" class="quizzSquare"/>
-                  {{ quizz.title }}
-                </v-btn>
-              </v-list-tile>
-            </div>
-          </v-list>
-      </v-flex>
-    </v-layout>
+    <v-toolbar app fixed>
+        <v-toolbar-title>Practices</v-toolbar-title>
+    </v-toolbar>
+
+    <v-container grid-list-xl>
+       <v-layout row wrap>
+          <v-flex xs12 v-for="quizz in quizzes" :key="quizz.title">
+              <v-card :style="{background: quizz.color}" class="quizzSquare shad" :to="{ name: 'quizzDetail' }">
+                <v-card-title>
+                  <h1>{{ quizz.title }}</h1>
+                  <div>This quizz will have the hardest kanji you have ever seen so far.</div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Start now</v-btn>
+                </v-card-actions>
+              </v-card>
+          </v-flex>
+      </v-layout> 
+    </v-container>
   </div>
 </template>
 
@@ -28,35 +31,25 @@
         },
         data() {
           return {
-            sections: [
-              {
-                title: "Aymen test custom",
-                quizzes: [
-                  new Quizz(1, "Easy", "red", false),
-                  new Quizz(2, "Medium", "red", false),
-                  new Quizz(3, "Difficult", "red", false),
-                  new Quizz(4, "Words", "home"),
+            quizzes: [
+                  new Quizz(1, "Easy", "rgb(235,52,103)"),
+                  new Quizz(7, "Play with numbers", "rgb(44,15,81)"),
+                  new Quizz(7, "Fill in the blanks", "rgb(54,137,247)"),
                 ]
-              },
-              {
-                title: "More variety of quizzes!",
-                quizzes: [
-                  new Quizz(5, "Fill in the blanks", "home"),
-                  new Quizz(6, "Find the antonyms", "home"),
-                  new Quizz(7, "Play with numbers", "home"),
-                ]
-              }
-            ]
-          }
+            }
         }
     }
 </script>
 
 <style scoped>
 .quizzSquare {
-  width: 20px;
-  height: 20px;
-  border-radius: 4px;
-  margin: 10px;
+  color: white;
+}
+.quizzSquare h1 {
+  color:r red;
+}
+.shad {
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
 }
 </style>

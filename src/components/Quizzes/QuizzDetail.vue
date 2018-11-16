@@ -26,7 +26,8 @@ export default {
         return {
             quizz: Quizz.numbersQCM(),
             currentQuestionIndex: 0,
-            showColoredAnswer: false
+            showColoredAnswer: false,
+            didAnimationFinish: true
         }
     },
     computed: {
@@ -47,10 +48,16 @@ export default {
             }
         },
         chooseAnswer(answer) {
+            if(this.didAnimationFinish == false) {
+                return
+            }
+            
+            this.didAnimationFinish = false 
             this.showColoredAnswer = true
             setTimeout(function(){
                 this.showColoredAnswer = false
                 this.nextQuestion()
+                this.didAnimationFinish = true
             }.bind(this), 2000);
             
         },        
