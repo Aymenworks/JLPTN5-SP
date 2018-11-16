@@ -1,5 +1,5 @@
 <template>
-    <v-card class="animateOnHover lightShadow transparent scaleOnHover" height="130px" :to="{ name: 'kanjiDetail', params: { kanji: kanji } }">
+    <v-card class="animateOnHover lightShadow white scaleOnHover" height="130px" :to="{ name: 'kanjiDetail', params: { kanji: kanji } }">
         <v-card-text class="kanjiText text-japanese">{{ kanji.character }}</v-card-text>
         <v-divider light/>
         <v-card-text class="kanjiTranslation" >{{ kanji.translation }}</v-card-text>

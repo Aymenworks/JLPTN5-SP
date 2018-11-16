@@ -23,7 +23,8 @@ class DataManager {
         String(kanjisList[i]['Symbol']),
         String(kanjisList[i]['Translation']),
         words,
-        pronunciation
+        pronunciation,
+        String(kanjisList[i]['NumberOfStrokes'])
       )
       kanjisSymbols.push(newKanji)
     }

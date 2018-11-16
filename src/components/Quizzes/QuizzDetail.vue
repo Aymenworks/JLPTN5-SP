@@ -7,9 +7,9 @@
     <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ currentQuestion.question }}</p>
     <v-container grid-list-xl>
         <v-layout row wrap >
-            <v-flex xs6 v-for="(possibleAnswer, index) in currentQuestion.possibleAnswers" :key="possibleAnswer" :disabled="true" @click="chooseAnswer(possibleAnswer)">
-                <v-card class="quizzAnswerBlock pa-5 scaleOnHover" :class="showColoredAnswer ? (currentQuestion.answer == possibleAnswer ? 'rightAnswer' : 'wrongAnswer') : 'normalState'">
-                    <v-card-text>{{ possibleAnswer }}</v-card-text>
+            <v-flex xs6 v-for="(possibleAnswer, index) in currentQuestion.possibleAnswers" :key="index" :disabled="true" @click="chooseAnswer(possibleAnswer, index)">
+                <v-card class="quizzAnswerBlock pa-5 scaleOnHover" :class="answersColors[index]">
+                    <v-card-text>{{ possibleAnswer.answer }}</v-card-text>
                 </v-card>
             </v-flex>
          </v-layout>
@@ -24,11 +24,20 @@ import Quizz from '../../models/Quizz.js'
 export default {
     data() {
         return {
-            quizz: Quizz.numbersQCM(),
+            quizz: this.$route.params.quizz,
             currentQuestionIndex: 0,
-            showColoredAnswer: false,
+            answersColors: [
+                "normalState",
+                "normalState",
+                "normalState",
+                "normalState"
+            ],
             didAnimationFinish: true
         }
+    },
+    created() {
+        this.quizz.loadNewQuestions()
+        console.log("created with quizz " + this.quizz)
     },
     computed: {
         currentQuestion: function() {
@@ -42,24 +51,40 @@ export default {
         },
         nextQuestion() {
             if(this.currentQuestionIndex + 1 > this.quizz.questions.length - 1) {
+                this.quizz.loadNewQuestions()
                 this.currentQuestionIndex = 0
             } else {
                 this.currentQuestionIndex += 1
             }
         },
-        chooseAnswer(answer) {
+        resetColors() {
+            for(var i = 0; i < this.answersColors.length; i++) {
+                this.$set(this.answersColors, i, "normalState")
+            }
+        },
+        chooseAnswer(answer, index) {
             if(this.didAnimationFinish == false) {
                 return
             }
             
             this.didAnimationFinish = false 
-            this.showColoredAnswer = true
+
+            if(answer.isRightAnswer) {
+                this.$set(this.answersColors, index, "rightAnswer")
+            } else {
+                this.$set(this.answersColors, index, "wrongAnswer")
+                // get index of right answer and put it green
+                const rightAnswerIndex = this.currentQuestion.possibleAnswers.findIndex(function(answer) {
+                    return answer.isRightAnswer
+                })
+                this.$set(this.answersColors, rightAnswerIndex, "rightAnswer")
+            }
+
             setTimeout(function(){
-                this.showColoredAnswer = false
                 this.nextQuestion()
+                this.resetColors()
                 this.didAnimationFinish = true
             }.bind(this), 2000);
-            
         },        
     }
 }

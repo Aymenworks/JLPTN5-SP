@@ -1,7 +1,6 @@
 export default class Question {
-  constructor (question, possibleAnswers, answer) {
+  constructor (question, possibleAnswers) {
     this.question = question
     this.possibleAnswers = possibleAnswers
-    this.answer = answer
   }
 }
