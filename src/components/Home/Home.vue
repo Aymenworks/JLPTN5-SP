@@ -19,8 +19,8 @@
 
     <v-container grid-list-lg v-if="currentSectionIndex === 0">
        <v-layout align-space-between justify-start row wrap>
-        <v-flex xs4 sm4 md3 lg2 v-for="kanji in currentSection.data" :key="kanji.character">
-            <KanjiItem :kanji="kanji"/>
+        <v-flex xs6 sm4 md3 lg2 v-for="(kanji, index) in currentSection.data" :key="kanji.character">
+            <KanjiItem :kanjiIndex="index"/>
         </v-flex>
       </v-layout> 
     </v-container>

@@ -6,11 +6,11 @@
 
     <v-container grid-list-xl>
        <v-layout row wrap>
-          <v-flex xs12 md6 v-for="quizz in quizzes" :key="quizz.id">
+          <v-flex xs12 v-for="quizz in quizzes" :key="quizz.id">
               <v-card :style="{background: quizz.color}" class="quizzSquare shad">
-                <v-card-title>
+                <v-card-title class="white--text">
                   <h1>{{ quizz.title }}</h1>
-                  <div>This quizz will have the hardest kanji you have ever seen so far.</div>
+                  <p>This quizz will have the hardest kanji you have ever seen so far.</p>
                 </v-card-title>
                 <v-divider dark></v-divider>
                 <v-card-actions>
@@ -45,10 +45,12 @@
 </script>
 
 <style scoped>
-.quizzSquare {
-  color: white;
+v-card-title {
+
 }
 .shad {
+  -webkit-box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
   box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
   border-radius: 6px;
 }

@@ -5,11 +5,11 @@
     </v-toolbar>
           
     <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ currentQuestion.question }}</p>
-    <v-container grid-list-xl>
-        <v-layout row wrap >
+    <v-container grid-list-xl text-xs-center>
+        <v-layout row wrap align-center>
             <v-flex xs6 v-for="(possibleAnswer, index) in currentQuestion.possibleAnswers" :key="index" :disabled="true" @click="chooseAnswer(possibleAnswer, index)">
-                <v-card class="quizzAnswerBlock pa-5 scaleOnHover" :class="answersColors[index]">
-                    <v-card-text>{{ possibleAnswer.answer }}</v-card-text>
+                <v-card class="quizzAnswerBlock scaleOnHover" height="130px" :class="answersColors[index]">
+                    <p>{{ possibleAnswer.answer }}</p>
                 </v-card>
             </v-flex>
          </v-layout>
@@ -27,10 +27,10 @@ export default {
             quizz: this.$route.params.quizz,
             currentQuestionIndex: 0,
             answersColors: [
-                "normalState",
-                "normalState",
-                "normalState",
-                "normalState"
+                "white",
+                "white",
+                "white",
+                "white"
             ],
             didAnimationFinish: true
         }
@@ -59,7 +59,7 @@ export default {
         },
         resetColors() {
             for(var i = 0; i < this.answersColors.length; i++) {
-                this.$set(this.answersColors, i, "normalState")
+                this.$set(this.answersColors, i, "white")
             }
         },
         chooseAnswer(answer, index) {
@@ -70,14 +70,14 @@ export default {
             this.didAnimationFinish = false 
 
             if(answer.isRightAnswer) {
-                this.$set(this.answersColors, index, "rightAnswer")
+                this.$set(this.answersColors, index, "green")
             } else {
-                this.$set(this.answersColors, index, "wrongAnswer")
+                this.$set(this.answersColors, index, "red")
                 // get index of right answer and put it green
                 const rightAnswerIndex = this.currentQuestion.possibleAnswers.findIndex(function(answer) {
                     return answer.isRightAnswer
                 })
-                this.$set(this.answersColors, rightAnswerIndex, "rightAnswer")
+                this.$set(this.answersColors, rightAnswerIndex, "green")
             }
 
             setTimeout(function(){
@@ -99,23 +99,22 @@ export default {
 
 .quizzAnswerBlock {
     font-weight: bolder;
-    font-size: 30px;
+    font-size: 25px;
+    display: table;
+    width: 100%;
     border-radius: 4px;
-    box-shadow: 1px 6px 12px 2px rgba(0, 0, 0, 0.08);
+    box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.1);
 }
 
-.rightAnswer {
-    background: green;
-    color: white;
+.quizzAnswerBlock p {
+    display: table-cell;
+    vertical-align: middle;
+}
+.scaleOnHover {
+  transition-duration: 0.3s;
 }
 
-.wrongAnswer {
-    background: red;
-    color: white;
-}
-
-.normalState {
-    background: white;
-    color: black;
+.scaleOnHover:hover {
+  transform: scale(1.1,1.1);
 }
 </style>

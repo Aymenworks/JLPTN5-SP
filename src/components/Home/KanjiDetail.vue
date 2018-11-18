@@ -3,7 +3,7 @@
     <v-toolbar app fixed>
         <v-btn icon @click="goBack" flat><v-icon>arrow_back</v-icon></v-btn>
     </v-toolbar>
-          
+    <pre>{{ this.$route.params.kanji }}</pre>
     <p id="kanjiDetailCharacter" class="text-japanese text-xs-center">{{ kanji.character }}</p>
     <p id="kanjiDetailTranslation" class="text-xs-center">{{ kanji.translation }}</p>
         <v-layout mx-3>
@@ -38,10 +38,12 @@
 
 
 <script>
+import DataManager from '../../Utils/DataManager.js'
+
 export default {
     data() {
         return {
-            kanji: this.$route.params.kanji
+            kanji: DataManager.kanjis[this.$route.params.id]
         }
     },
     methods: {

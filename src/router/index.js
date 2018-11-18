@@ -9,11 +9,12 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
 const routes = [
-  { path: '/', name: 'home', component: Home },
+  { path: '/', redirect: 'home' },
+  { path: '/home', name: 'home', component: Home },
   { path: '/about', name: 'about', component: About },
-  { path: '/kanjiDetail', name: 'kanjiDetail', component: KanjiDetail },
-  { path: '/quizzes', name: 'quizzes', component: Quizzes},
-  { path: '/quizzDetail', name: 'quizzDetail', component: QuizzDetail}
+  { path: '/home/:id', name: 'kanjiDetail', component: KanjiDetail },
+  { path: '/quizzes', name: 'quizzes', component: Quizzes },
+  { path: '/quizzDetail', name: 'quizzDetail', component: QuizzDetail }
 ]
 
 export default new VueRouter({
